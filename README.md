@@ -17,7 +17,7 @@ __T2/2021__
 
 ---
 
-## Knowledge Refresh: 
+## Knowledge Refreshing: 
 According to __Codecademy__, we give some description:
 
 During your brainstorming phase, you should consider two things:
