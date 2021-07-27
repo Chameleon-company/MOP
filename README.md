@@ -39,8 +39,14 @@ In the diagram below, we have assigned Matplotlib visualizations to different ca
 
 
 ## 1. Reading dataset
+
+
 ```
-\oscar has worked up here: replace this section with new function. Showing summary table of 222 datasets
+**Oscar has worked up here:** 
+
+replace this section with new function. 
+
+Showing summary table of 222 datasets
 ```
 
 * Find API show as below:
@@ -80,17 +86,22 @@ results_df = pd.DataFrame.from_records(results)
 
 ### See as [example code](example.ipynb)
 
-
-### Create EDA Code
-
-```
-To Mirriam: Plz create file with your EDA code. Do not merge your code into **example.ipynb** file
-```
-
 ---
+
+```
+**Mirriam is working here**
+
+Create EDA Code:
+> Plz create file with your EDA code.
+>> Do not merge your code into **example.ipynb** file)
+```
+
+
 ## 3. Analysis of result  
 ```
-\Oscar: {Mirriam please replace this image with your geo fig}
+>>>**Mirriam** is working here
+
+please replace this image with your geo fig
 ```
-**Mirriam** is working here
+
 ![image](images/parking.jpg)
