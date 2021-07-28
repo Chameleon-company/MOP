@@ -102,6 +102,7 @@ Showing summary table of 222 datasets
 
 ---
 
+![image](images/merge.png)
 
 `Mirriam is working here`
 
