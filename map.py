@@ -15,12 +15,12 @@ def mark_map(data):
     for i in range(len(data)):
         # Customize popup content
         test = folium.Html(
-            '<b>bay_id:{}</b></br> <b>statues:{}</b></br> <b>description:{}</b></br> <b>effectiveonph:{}</b></br> '.format(data.iloc[i]['bay_id'], data.iloc[i]['status'], data.iloc[i]['description1'],data.iloc[i]['effectiveonph1']),
+            '<b>Bay_id:{}</b></br> <b>Statues:{}</b></br> <b>Description:{}</b></br> <b>Duration:{}</b></br> <b>Disability{}</b></br> '.format(data.iloc[i]['bay_id'], data.iloc[i]['status'], data.iloc[i]['description1'],data.iloc[i]['duration1'],data.iloc[i]['disabilityext1']),
             script=True)
         
         popup = folium.Popup(test)
         
-        if data.iloc[i]['status']=='Unoccupied':
+        if data.iloc[i]['status']=='Present':
             icon=folium.Icon(color='red', icon='info-sign')
         else:
             icon=folium.Icon(color='blue', icon='ok-sign')
@@ -31,10 +31,11 @@ def mark_map(data):
     geo_name = 'Geo_Map.html'
     #to save it in a file
     myMap.save('images/'+geo_name)
-    webbrowser.open('images/'+geo_name)
+    #webbrowser.open('images/'+geo_name)
 
     image_path = "file://"+os.getcwd()+ '/'+ 'images/'+geo_name
     webbrowser.open(image_path)
+
     
     #myMap.save('testMap.html')
 
