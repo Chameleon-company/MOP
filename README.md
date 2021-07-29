@@ -123,9 +123,3 @@ Do not merge your code into **example.ipynb** file)
 ![image](images/geo_map.jpg)
 
 
-
-'''
-albert started to work
-'''
-
-
