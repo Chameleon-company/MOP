@@ -134,4 +134,3 @@ The screenshot below:
 ![image](images/geo_map.png)
 
 
-
