@@ -102,6 +102,7 @@ Showing summary table of 222 datasets
 
 ---
 
+![image](images/merge.png)
 
 `Mirriam is working here`
 
@@ -117,10 +118,20 @@ Do not merge your code into **example.ipynb** file)
 
 `Mirriam is working here`
 
->please replace this image with your geo fig
+Open the link ["Geo_Map.html"](Geo_Map.html) with your browser to check the parking status. 
 
+Different colored icons are used to distinguish the availability of parking Spaces.Red means the parking space is occupied, and blue means the parking space is available. 
 
-![image](images/geo_map.jpg)
+When you select a specific icon, you can see the specific status of the parking space.
+Bay_id:The unique ID of the parking bay where the parking sensor is located.If you encounter any situation on the street, the Bay ID will be able to quickly locate you.
+Status:The status will either display: Occupied – A car is present in the parking bay at that time. Unoccupied – The parking bay is available at that time.Help you quickly find available parking.
+Description:A compact, semi-human-readable description of the overall restrictions.If you're interested in free parking time, then this is perfect for you.
+Duration:The time (in minutes) that a vehicle can park at this location.
+Disability:For bays that aren't limited to disabled permits, how much time (minutes) a vehicle with disabled permit can spend in the spot. Usually twice the regular amount of time.
+
+The screenshot below:
+
+![image](images/geo_map.png)
 
 
 
