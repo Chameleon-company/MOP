@@ -1,7 +1,7 @@
 **Melbourne Open Data**
 =========================
 
-__Author__: Squad of City of Melbourne
+__Author__: Oscar
 
 __Deakin University__ 
 
