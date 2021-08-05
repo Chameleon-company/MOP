@@ -39,7 +39,20 @@ We would love to see how you’re using our data.
 Summary Table for Open Data
 =====
 
-![image](images/summarytable.jpg)
+
+
+| Name  | id |  updatead_At  |createAt |downloadCount |
+| :---        |    :----:   |          ---: |       ---: |       ---: |
+Postcodes|m7yp-p495|2020-02-25T02:19:56.000Z|2014-06-26T06:28:18.000Z|13530346
+On-street Parking Bay Sensors|vh2v-4nfs|2021-08-05T03:25:30.000Z|2017-08-10T04:57:59.000Z|12074388
+Street names|2x56-ai8r|2021-08-04T16:45:52.000Z|2015-04-14T04:36:39.000Z|9808179
+Small Areas for Census of Land Use and Employment (CLUE)|gei8-3w86|2020-02-24T02:09:59.000Z|2014-05-02T08:02:19.000Z|7362378
+Road corridors|9mdh-8yau|2021-08-04T16:43:58.000Z|2014-06-26T06:31:25.000Z|7206912
+City Circle tram stops|dh3m-ckxm|2020-04-05T21:42:05.000Z|2014-06-26T05:24:08.000Z|6644363
+Former lakes and wetlands in Melbourne|n6sz-6nb6|2020-02-24T02:10:11.000Z|2014-07-09T05:04:14.000Z|5564262
+Soil textures at various depths|svux-bada|2020-02-24T02:10:26.000Z|2014-07-09T05:06:20.000Z|5415168
+Garbage collection zones|dmpt-2xdw|2021-08-04T16:39:19.000Z|2015-09-23T23:16:36.000Z|5049596
+Municipal boundary|ck33-yh8z|2020-02-24T02:10:15.000Z|2014-06-26T06:11:47.000Z|5013334
 
 ---
 
