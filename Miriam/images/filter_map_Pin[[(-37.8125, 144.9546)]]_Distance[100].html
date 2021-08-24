@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_65bb30b00fbd4d3ea3843be9827f635b {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_65bb30b00fbd4d3ea3843be9827f635b" ></div>
+        
+</body>
+<script>    
+    
+            var map_65bb30b00fbd4d3ea3843be9827f635b = L.map(
+                "map_65bb30b00fbd4d3ea3843be9827f635b",
+                {
+                    center: [-37.82, 144.95],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 14,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_539b94787db04aa1949cc3da509d8bf0 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_65bb30b00fbd4d3ea3843be9827f635b);
+        
+    
+            var marker_62a522deca8743859d6552ccf582d851 = L.marker(
+                [-37.81261862917434, 144.95362160189677],
+                {}
+            ).addTo(map_65bb30b00fbd4d3ea3843be9827f635b);
+        
+    
+            var icon_8fab0c9c57734e67b71c850b60b37026 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_62a522deca8743859d6552ccf582d851.setIcon(icon_8fab0c9c57734e67b71c850b60b37026);
+        
+    
+        var popup_ef3335a9915d48d1840655d8c906741b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_58826a74859846bebfbfac888ac7ee28 = $(`<div id="html_58826a74859846bebfbfac888ac7ee28" style="width: 100.0%; height: 100.0%;"><b>Bay_id:2314</b></br> <b>Statues:Present</b></br> <b>Description:1P MTR M-F 9:30-18:30</b></br> <b>Duration:60</b></br> <b>Disability120</b></br> </div>`)[0];
+            popup_ef3335a9915d48d1840655d8c906741b.setContent(html_58826a74859846bebfbfac888ac7ee28);
+        
+
+        marker_62a522deca8743859d6552ccf582d851.bindPopup(popup_ef3335a9915d48d1840655d8c906741b)
+        ;
+
+        
+    
+    
+            var marker_41f1d3255d85430486d47819ec9014e3 = L.marker(
+                [-37.81221282649996, 144.9545647431513],
+                {}
+            ).addTo(map_65bb30b00fbd4d3ea3843be9827f635b);
+        
+    
+            var icon_785d3252556e40039d4345db7d3949aa = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_41f1d3255d85430486d47819ec9014e3.setIcon(icon_785d3252556e40039d4345db7d3949aa);
+        
+    
+        var popup_0bad192aec7d4bf1892ceec7a0fc286a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f7cfe2b27aea400591238a86945dc64c = $(`<div id="html_f7cfe2b27aea400591238a86945dc64c" style="width: 100.0%; height: 100.0%;"><b>Bay_id:4993</b></br> <b>Statues:Unoccupied</b></br> <b>Description:2P MTR M-F 7:30-18:30</b></br> <b>Duration:120</b></br> <b>Disability240</b></br> </div>`)[0];
+            popup_0bad192aec7d4bf1892ceec7a0fc286a.setContent(html_f7cfe2b27aea400591238a86945dc64c);
+        
+
+        marker_41f1d3255d85430486d47819ec9014e3.bindPopup(popup_0bad192aec7d4bf1892ceec7a0fc286a)
+        ;
+
+        
+    
+    
+            var marker_4f6708d8c0f84928980df2b0f74960ab = L.marker(
+                [-37.813033688592654, 144.95430777343313],
+                {}
+            ).addTo(map_65bb30b00fbd4d3ea3843be9827f635b);
+        
+    
+            var icon_5fec3eb8b20448e6a4050a26152281fa = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_4f6708d8c0f84928980df2b0f74960ab.setIcon(icon_5fec3eb8b20448e6a4050a26152281fa);
+        
+    
+        var popup_e501afdcf1ac43cc8106a918bbbd2ee6 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_460ecec9ea3f4b28abaf8031162762dd = $(`<div id="html_460ecec9ea3f4b28abaf8031162762dd" style="width: 100.0%; height: 100.0%;"><b>Bay_id:5361</b></br> <b>Statues:Unoccupied</b></br> <b>Description:1/4P M-F 9:30-16:00</b></br> <b>Duration:15</b></br> <b>Disability30</b></br> </div>`)[0];
+            popup_e501afdcf1ac43cc8106a918bbbd2ee6.setContent(html_460ecec9ea3f4b28abaf8031162762dd);
+        
+
+        marker_4f6708d8c0f84928980df2b0f74960ab.bindPopup(popup_e501afdcf1ac43cc8106a918bbbd2ee6)
+        ;
+
+        
+    
+    
+            var marker_904cf7f656dc41d9accb0c50802ee7b0 = L.marker(
+                [-37.81285802621315, 144.95397486300203],
+                {}
+            ).addTo(map_65bb30b00fbd4d3ea3843be9827f635b);
+        
+    
+            var icon_26a11136e78f42f9b0de6e57e2361bbf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_904cf7f656dc41d9accb0c50802ee7b0.setIcon(icon_26a11136e78f42f9b0de6e57e2361bbf);
+        
+    
+        var popup_8d01cea1dea9432e9f84bfdb42467308 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_68993c10ec7b4c2da2b2db87754bba59 = $(`<div id="html_68993c10ec7b4c2da2b2db87754bba59" style="width: 100.0%; height: 100.0%;"><b>Bay_id:4400</b></br> <b>Statues:Unoccupied</b></br> <b>Description:4P M-F 7:30-18:30</b></br> <b>Duration:240</b></br> <b>Disability480</b></br> </div>`)[0];
+            popup_8d01cea1dea9432e9f84bfdb42467308.setContent(html_68993c10ec7b4c2da2b2db87754bba59);
+        
+
+        marker_904cf7f656dc41d9accb0c50802ee7b0.bindPopup(popup_8d01cea1dea9432e9f84bfdb42467308)
+        ;
+
+        
+    
+    
+            var marker_f4b692485ffb4e9abeb251f62745b1eb = L.marker(
+                [-37.8127273293113, 144.95416523342118],
+                {}
+            ).addTo(map_65bb30b00fbd4d3ea3843be9827f635b);
+        
+    
+            var icon_46d8873b775b49c88dc827b50baf7dc0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_f4b692485ffb4e9abeb251f62745b1eb.setIcon(icon_46d8873b775b49c88dc827b50baf7dc0);
+        
+    
+        var popup_e2414240c2bf4692aa625bea289e5c00 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a34f23f55d874db8b2ece61530286913 = $(`<div id="html_a34f23f55d874db8b2ece61530286913" style="width: 100.0%; height: 100.0%;"><b>Bay_id:6745</b></br> <b>Statues:Unoccupied</b></br> <b>Description:LZ 30M M-F 7:30-19:30</b></br> <b>Duration:30</b></br> <b>Disability0</b></br> </div>`)[0];
+            popup_e2414240c2bf4692aa625bea289e5c00.setContent(html_a34f23f55d874db8b2ece61530286913);
+        
+
+        marker_f4b692485ffb4e9abeb251f62745b1eb.bindPopup(popup_e2414240c2bf4692aa625bea289e5c00)
+        ;
+
+        
+    
+    
+            var marker_f7108b3fc42849758167ca89d56d4790 = L.marker(
+                [-37.81219457073095, 144.9546289525064],
+                {}
+            ).addTo(map_65bb30b00fbd4d3ea3843be9827f635b);
+        
+    
+            var icon_d4e03e402e93472f93e7003fa487e47f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_f7108b3fc42849758167ca89d56d4790.setIcon(icon_d4e03e402e93472f93e7003fa487e47f);
+        
+    
+        var popup_58b080f2a5694435abc60d456107849b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_baa56f526830471ba62a6d286260610d = $(`<div id="html_baa56f526830471ba62a6d286260610d" style="width: 100.0%; height: 100.0%;"><b>Bay_id:5554</b></br> <b>Statues:Unoccupied</b></br> <b>Description:2P MTR M-F 7:30-18:30</b></br> <b>Duration:120</b></br> <b>Disability240</b></br> </div>`)[0];
+            popup_58b080f2a5694435abc60d456107849b.setContent(html_baa56f526830471ba62a6d286260610d);
+        
+
+        marker_f7108b3fc42849758167ca89d56d4790.bindPopup(popup_58b080f2a5694435abc60d456107849b)
+        ;
+
+        
+    
+    
+            var marker_68572d0dc9154c608b2b23db46c8d3fc = L.marker(
+                [-37.81278151294654, 144.95419047769457],
+                {}
+            ).addTo(map_65bb30b00fbd4d3ea3843be9827f635b);
+        
+    
+            var icon_d332f05f9d0e441ead9ac31cb537f76b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_68572d0dc9154c608b2b23db46c8d3fc.setIcon(icon_d332f05f9d0e441ead9ac31cb537f76b);
+        
+    
+        var popup_c77b76cd23e24298a6f1d223fd90ff85 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2dfa8a1ae87f4dff8c2fb4e7fed2a1de = $(`<div id="html_2dfa8a1ae87f4dff8c2fb4e7fed2a1de" style="width: 100.0%; height: 100.0%;"><b>Bay_id:945</b></br> <b>Statues:Present</b></br> <b>Description:2P MTR M-SAT 7:30-20:30</b></br> <b>Duration:120</b></br> <b>Disability240</b></br> </div>`)[0];
+            popup_c77b76cd23e24298a6f1d223fd90ff85.setContent(html_2dfa8a1ae87f4dff8c2fb4e7fed2a1de);
+        
+
+        marker_68572d0dc9154c608b2b23db46c8d3fc.bindPopup(popup_c77b76cd23e24298a6f1d223fd90ff85)
+        ;
+
+        
+    
+    
+            var marker_bf28339437cc4ef0891fdce7b5cc81ab = L.marker(
+                [-37.81226727797973, 144.95437225197944],
+                {}
+            ).addTo(map_65bb30b00fbd4d3ea3843be9827f635b);
+        
+    
+            var icon_06f874047af44146a61fdde5278dfa0a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_bf28339437cc4ef0891fdce7b5cc81ab.setIcon(icon_06f874047af44146a61fdde5278dfa0a);
+        
+    
+        var popup_0570092fe4414386950a2656c00cd5af = L.popup({"maxWidth": "100%"});
+
+        
+            var html_49c20272c31d451b84c04bf3f975f2c7 = $(`<div id="html_49c20272c31d451b84c04bf3f975f2c7" style="width: 100.0%; height: 100.0%;"><b>Bay_id:4384</b></br> <b>Statues:Unoccupied</b></br> <b>Description:4P M-F 7:30-18:30</b></br> <b>Duration:240</b></br> <b>Disability480</b></br> </div>`)[0];
+            popup_0570092fe4414386950a2656c00cd5af.setContent(html_49c20272c31d451b84c04bf3f975f2c7);
+        
+
+        marker_bf28339437cc4ef0891fdce7b5cc81ab.bindPopup(popup_0570092fe4414386950a2656c00cd5af)
+        ;
+
+        
+    
+    
+            var marker_3bf89d90cd5f426080253328777866fc = L.marker(
+                [-37.812321764801254, 144.95417995459024],
+                {}
+            ).addTo(map_65bb30b00fbd4d3ea3843be9827f635b);
+        
+    
+            var icon_047cfb3b25224bd58195fb68984d6948 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_3bf89d90cd5f426080253328777866fc.setIcon(icon_047cfb3b25224bd58195fb68984d6948);
+        
+    
+        var popup_83bf3ce8eb4f4ce0a5b6827c1a53a331 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_41fe07c8d0284cab8e7fac13903fa2d6 = $(`<div id="html_41fe07c8d0284cab8e7fac13903fa2d6" style="width: 100.0%; height: 100.0%;"><b>Bay_id:4271</b></br> <b>Statues:Unoccupied</b></br> <b>Description:2P TKT A M-SAT 7:30-20:30</b></br> <b>Duration:120</b></br> <b>Disability240</b></br> </div>`)[0];
+            popup_83bf3ce8eb4f4ce0a5b6827c1a53a331.setContent(html_41fe07c8d0284cab8e7fac13903fa2d6);
+        
+
+        marker_3bf89d90cd5f426080253328777866fc.bindPopup(popup_83bf3ce8eb4f4ce0a5b6827c1a53a331)
+        ;
+
+        
+    
+    
+            var marker_b4cbf230f221406891d4bbc520906cda = L.marker(
+                [-37.81224916081595, 144.95443640358283],
+                {}
+            ).addTo(map_65bb30b00fbd4d3ea3843be9827f635b);
+        
+    
+            var icon_0226dc94ad6e48daa6b88f538e783001 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_b4cbf230f221406891d4bbc520906cda.setIcon(icon_0226dc94ad6e48daa6b88f538e783001);
+        
+    
+        var popup_12d3329bea8c40198cc325fee34266a5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a74c33f611c14901abe9b385d38e9610 = $(`<div id="html_a74c33f611c14901abe9b385d38e9610" style="width: 100.0%; height: 100.0%;"><b>Bay_id:6066</b></br> <b>Statues:Unoccupied</b></br> <b>Description:1/4P M-F 7:30-9:30</b></br> <b>Duration:15</b></br> <b>Disability30</b></br> </div>`)[0];
+            popup_12d3329bea8c40198cc325fee34266a5.setContent(html_a74c33f611c14901abe9b385d38e9610);
+        
+
+        marker_b4cbf230f221406891d4bbc520906cda.bindPopup(popup_12d3329bea8c40198cc325fee34266a5)
+        ;
+
+        
+    
+    
+            var marker_4ce40c4cd59a4bad8ce6319c21ec9592 = L.marker(
+                [-37.81293227279018, 144.95426076235793],
+                {}
+            ).addTo(map_65bb30b00fbd4d3ea3843be9827f635b);
+        
+    
+            var icon_3634225472be4284b6de1754e920f400 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_4ce40c4cd59a4bad8ce6319c21ec9592.setIcon(icon_3634225472be4284b6de1754e920f400);
+        
+    
+        var popup_4c77b1adadec4b7d9f83995fff32a748 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3ec749e5b8484f1bb7518b55b9e8ce05 = $(`<div id="html_3ec749e5b8484f1bb7518b55b9e8ce05" style="width: 100.0%; height: 100.0%;"><b>Bay_id:6065</b></br> <b>Statues:Unoccupied</b></br> <b>Description:2P MTR M-SAT 7:30-18:30</b></br> <b>Duration:120</b></br> <b>Disability240</b></br> </div>`)[0];
+            popup_4c77b1adadec4b7d9f83995fff32a748.setContent(html_3ec749e5b8484f1bb7518b55b9e8ce05);
+        
+
+        marker_4ce40c4cd59a4bad8ce6319c21ec9592.bindPopup(popup_4c77b1adadec4b7d9f83995fff32a748)
+        ;
+
+        
+    
+    
+            var marker_85ee22fe08774a52bf4bf4797aaa5e8d = L.marker(
+                [-37.81267387438292, 144.95414032864602],
+                {}
+            ).addTo(map_65bb30b00fbd4d3ea3843be9827f635b);
+        
+    
+            var icon_7daa26c7b59b4db396f2089a83fc2129 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_85ee22fe08774a52bf4bf4797aaa5e8d.setIcon(icon_7daa26c7b59b4db396f2089a83fc2129);
+        
+    
+        var popup_ce5a359bd0ef42329ef646e693f1c209 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c1234e6fdca54d8483bafeaeffa26a12 = $(`<div id="html_c1234e6fdca54d8483bafeaeffa26a12" style="width: 100.0%; height: 100.0%;"><b>Bay_id:1272</b></br> <b>Statues:Unoccupied</b></br> <b>Description:CW TOW M-F 7:00-10:00</b></br> <b>Duration:0</b></br> <b>Disability0</b></br> </div>`)[0];
+            popup_ce5a359bd0ef42329ef646e693f1c209.setContent(html_c1234e6fdca54d8483bafeaeffa26a12);
+        
+
+        marker_85ee22fe08774a52bf4bf4797aaa5e8d.bindPopup(popup_ce5a359bd0ef42329ef646e693f1c209)
+        ;
+
+        
+    
+    
+            var marker_83e72bc7d81148edaa9c45cd827ebe1b = L.marker(
+                [-37.8125, 144.9546],
+                {}
+            ).addTo(map_65bb30b00fbd4d3ea3843be9827f635b);
+        
+    
+            var icon_83bea5a19a4a426c8498e9e11d8d5f87 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_83e72bc7d81148edaa9c45cd827ebe1b.setIcon(icon_83bea5a19a4a426c8498e9e11d8d5f87);
+        
+    
+        var popup_b958301bc573498aa5637a340950e74e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4b68fae25c0e4006982be087d7782250 = $(`<div id="html_4b68fae25c0e4006982be087d7782250" style="width: 100.0%; height: 100.0%;">PIN</div>`)[0];
+            popup_b958301bc573498aa5637a340950e74e.setContent(html_4b68fae25c0e4006982be087d7782250);
+        
+
+        marker_83e72bc7d81148edaa9c45cd827ebe1b.bindPopup(popup_b958301bc573498aa5637a340950e74e)
+        ;
+
+        
+    
+    
+            marker_83e72bc7d81148edaa9c45cd827ebe1b.bindTooltip(
+                `<div>
+                     (-37.8125, 144.9546)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_13ab09ae57a647ff8d7242dc7081b0e2 = L.circle(
+                [-37.8125, 144.9546],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_65bb30b00fbd4d3ea3843be9827f635b);
+        
+    
+        var popup_81a170a1150a44f3880158b6d9d6e178 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9ec4f62bb6384db1b4e4ec65af6e986d = $(`<div id="html_9ec4f62bb6384db1b4e4ec65af6e986d" style="width: 100.0%; height: 100.0%;">PIN</div>`)[0];
+            popup_81a170a1150a44f3880158b6d9d6e178.setContent(html_9ec4f62bb6384db1b4e4ec65af6e986d);
+        
+
+        circle_13ab09ae57a647ff8d7242dc7081b0e2.bindPopup(popup_81a170a1150a44f3880158b6d9d6e178)
+        ;
+
+        
+    
+</script>
