@@ -1,10 +1,8 @@
-__verison__ = 1.0
-
 import pandas as pd
 from sodapy import Socrata
 
 
-def top_table(top = 10):
+def top_table(top = 20):
 
     ''' return top # downloads of datasets  '''
     client = Socrata("data.melbourne.vic.gov.au", #domain
@@ -53,13 +51,13 @@ def top_table(top = 10):
                     #'updatead_At':_updatedAt,
                     #'createAt':_createAt,
                     "link": _link,
-                 #   'pageViews':_page_views,
-               #     "attributes":_features,
+            #   'pageViews':_page_views,
+            #     "attributes":_features,
                     "downloadCount":_downloadCount,
                     'page_views_last_month':_view
                     })
 
-    sum_df = sum_df.sort_values(['downloadCount'], ascending=False).head(top)
+    sum_df = sum_df.sort_values(['page_views_last_month'], ascending=False).head(top)
     sum_df = sum_df.reset_index().drop('index', axis=1)
     return sum_df, client
 
@@ -72,7 +70,7 @@ def keyword_search(keywords= None):
         for each_dataset in client.datasets():
         #for key_name in each_dataset['resource']:
             #    print(key_name,":" ,each_dataset['resource'][str(key_name)])    
-            if each_dataset['resource']['name'].lower().find("street".lower()) != -1:
+            if each_dataset['resource']['name'].lower().find(keywords.lower()) != -1:
             # print('name: ' , each_dataset['resource']['name'],', id:' , each_dataset['resource']['id'])
                 rows.append([each_dataset['resource']['name'], 
                 each_dataset['resource']['id'],
@@ -84,10 +82,29 @@ def keyword_search(keywords= None):
 
         return df
 
+def data_inspect(keywords= None, client=None):
+    if keywords is None:
+        print('Please typing valid dataset name')
+    else:
+        rows = []
+        for each_dataset in client.datasets():
+        #for key_name in each_dataset['resource']:
+            #    print(key_name,":" ,each_dataset['resource'][str(key_name)])    
+            if each_dataset['resource']['name'].lower().find(keywords.lower()) != -1:
+            # print('name: ' , each_dataset['resource']['name'],', id:' , each_dataset['resource']['id'])
+                rows.append([each_dataset['resource']['name'], 
+                each_dataset['resource']['id'],
+                each_dataset['resource']['download_count'],
+                each_dataset['permalink']
+                ]
+                )
+        df = pd.DataFrame(rows, columns=["Name", "Id", 'Downloads','link'])
+        df = df.sort_values(['Downloads'], ascending=False)
+        df = df.reset_index().drop('index', axis=1)
+        return df
 
 
-if __name__ == 'main':
 
-    keyword_search('parking')
-    print(df)
+#if __name__ == 'main':
+
 
