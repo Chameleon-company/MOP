@@ -68,18 +68,20 @@ def keyword_search(keywords= None):
         sum_table, client= top_table()
         rows = []
         for each_dataset in client.datasets():
-        #for key_name in each_dataset['resource']:
-            #    print(key_name,":" ,each_dataset['resource'][str(key_name)])    
-            if each_dataset['resource']['name'].lower().find(keywords.lower()) != -1:
-            # print('name: ' , each_dataset['resource']['name'],', id:' , each_dataset['resource']['id'])
+            check_list = []
+            for i in keywords.lower().split():
+                if each_dataset['resource']['name'].lower().find(i) != -1:
+                    check_list.append(1)
+                else:
+                    check_list.append(0)
+            if any(check_list):
                 rows.append([each_dataset['resource']['name'], 
                 each_dataset['resource']['id'],
-                each_dataset['resource']['download_count'],
-                each_dataset['permalink']
-                ]
-                )
-        df = pd.DataFrame(rows, columns=["Name", "Id", 'Downloads','link'])
-
+                each_dataset['resource']['download_count']
+            ])
+        df = pd.DataFrame(rows, columns=["Name", "Id", 'Downloads'])
+        df = df.sort_values(['Downloads'], ascending=False)
+        df = df.reset_index().drop('index', axis=1)
         return df
 
 def data_inspect(keywords= None, client=None):
@@ -88,17 +90,18 @@ def data_inspect(keywords= None, client=None):
     else:
         rows = []
         for each_dataset in client.datasets():
-        #for key_name in each_dataset['resource']:
-            #    print(key_name,":" ,each_dataset['resource'][str(key_name)])    
-            if each_dataset['resource']['name'].lower().find(keywords.lower()) != -1:
-            # print('name: ' , each_dataset['resource']['name'],', id:' , each_dataset['resource']['id'])
+            check_list = []
+            for i in keywords.lower().split():
+                if each_dataset['resource']['name'].lower().find(i) != -1:
+                    check_list.append(1)
+                else:
+                    check_list.append(0)
+            if any(check_list):
                 rows.append([each_dataset['resource']['name'], 
                 each_dataset['resource']['id'],
-                each_dataset['resource']['download_count'],
-                each_dataset['permalink']
-                ]
-                )
-        df = pd.DataFrame(rows, columns=["Name", "Id", 'Downloads','link'])
+                each_dataset['resource']['download_count']
+            ])
+        df = pd.DataFrame(rows, columns=["Name", "Id", 'Downloads'])
         df = df.sort_values(['Downloads'], ascending=False)
         df = df.reset_index().drop('index', axis=1)
         return df
