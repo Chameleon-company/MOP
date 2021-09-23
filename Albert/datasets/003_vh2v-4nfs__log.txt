@@ -2458,3 +2458,1047 @@
 2021-09-09 15:07:17.487431, unique parking bays csv updated
 2021-09-09 15:22:19.469341, dataset retrieved and appended to csv
 2021-09-09 15:22:19.469360, unique parking bays csv updated
+2021-09-09 15:37:21.678081, dataset retrieved and appended to csv
+2021-09-09 15:37:21.678098, unique parking bays csv updated
+2021-09-09 15:52:24.086959, dataset retrieved and appended to csv
+2021-09-09 15:52:24.086978, unique parking bays csv updated
+2021-09-09 16:07:26.179095, dataset retrieved and appended to csv
+2021-09-09 16:07:26.179121, unique parking bays csv updated
+2021-09-09 16:22:28.292967, dataset retrieved and appended to csv
+2021-09-09 16:22:28.292988, unique parking bays csv updated
+2021-09-09 16:37:30.488889, dataset retrieved and appended to csv
+2021-09-09 16:37:30.488906, unique parking bays csv updated
+2021-09-09 16:52:32.614847, dataset retrieved and appended to csv
+2021-09-09 16:52:32.614865, unique parking bays csv updated
+2021-09-09 17:07:34.630483, dataset retrieved and appended to csv
+2021-09-09 17:07:34.630500, unique parking bays csv updated
+2021-09-09 17:22:36.553362, dataset retrieved and appended to csv
+2021-09-09 17:22:36.553381, unique parking bays csv updated
+2021-09-09 17:37:38.410188, dataset retrieved and appended to csv
+2021-09-09 17:37:38.410205, unique parking bays csv updated
+2021-09-09 17:52:40.842375, dataset retrieved and appended to csv
+2021-09-09 17:52:40.842398, unique parking bays csv updated
+2021-09-09 18:07:42.857518, dataset retrieved and appended to csv
+2021-09-09 18:07:42.857534, unique parking bays csv updated
+2021-09-09 18:22:44.926756, dataset retrieved and appended to csv
+2021-09-09 18:22:44.926772, unique parking bays csv updated
+2021-09-09 18:37:46.965017, dataset retrieved and appended to csv
+2021-09-09 18:37:46.965037, unique parking bays csv updated
+2021-09-09 18:52:48.895287, dataset retrieved and appended to csv
+2021-09-09 18:52:48.895304, unique parking bays csv updated
+2021-09-09 19:07:51.472123, dataset retrieved and appended to csv
+2021-09-09 19:07:51.472148, unique parking bays csv updated
+2021-09-09 19:22:53.607905, dataset retrieved and appended to csv
+2021-09-09 19:22:53.607924, unique parking bays csv updated
+2021-09-09 19:37:56.238996, dataset retrieved and appended to csv
+2021-09-09 19:37:56.239015, unique parking bays csv updated
+2021-09-09 19:52:58.161662, dataset retrieved and appended to csv
+2021-09-09 19:52:58.161679, unique parking bays csv updated
+2021-09-09 20:08:00.477124, dataset retrieved and appended to csv
+2021-09-09 20:08:00.477141, unique parking bays csv updated
+2021-09-09 20:23:02.536111, dataset retrieved and appended to csv
+2021-09-09 20:23:02.536130, unique parking bays csv updated
+2021-09-09 20:38:04.701602, dataset retrieved and appended to csv
+2021-09-09 20:38:04.701621, unique parking bays csv updated
+2021-09-09 20:53:06.917771, dataset retrieved and appended to csv
+2021-09-09 20:53:06.917788, unique parking bays csv updated
+2021-09-09 21:08:09.388933, dataset retrieved and appended to csv
+2021-09-09 21:08:09.388950, unique parking bays csv updated
+2021-09-09 21:23:12.098551, dataset retrieved and appended to csv
+2021-09-09 21:23:12.098567, unique parking bays csv updated
+2021-09-09 21:38:14.066586, dataset retrieved and appended to csv
+2021-09-09 21:38:14.066614, unique parking bays csv updated
+2021-09-09 21:53:16.559199, dataset retrieved and appended to csv
+2021-09-09 21:53:16.559220, unique parking bays csv updated
+2021-09-09 22:08:19.077548, dataset retrieved and appended to csv
+2021-09-09 22:08:19.077567, unique parking bays csv updated
+2021-09-09 22:23:21.471133, dataset retrieved and appended to csv
+2021-09-09 22:23:21.471149, unique parking bays csv updated
+2021-09-09 22:38:23.627595, dataset retrieved and appended to csv
+2021-09-09 22:38:23.627614, unique parking bays csv updated
+2021-09-09 22:53:25.876400, dataset retrieved and appended to csv
+2021-09-09 22:53:25.876421, unique parking bays csv updated
+2021-09-09 23:08:28.074630, dataset retrieved and appended to csv
+2021-09-09 23:08:28.074650, unique parking bays csv updated
+2021-09-09 23:23:30.187490, dataset retrieved and appended to csv
+2021-09-09 23:23:30.187515, unique parking bays csv updated
+2021-09-09 23:38:32.352936, dataset retrieved and appended to csv
+2021-09-09 23:38:32.352956, unique parking bays csv updated
+2021-09-09 23:53:34.790112, dataset retrieved and appended to csv
+2021-09-09 23:53:34.790168, unique parking bays csv updated
+2021-09-10 00:08:36.696621, dataset retrieved and appended to csv
+2021-09-10 00:08:36.696639, unique parking bays csv updated
+2021-09-10 00:23:38.786519, dataset retrieved and appended to csv
+2021-09-10 00:23:38.786536, unique parking bays csv updated
+2021-09-10 00:38:41.812114, dataset retrieved and appended to csv
+2021-09-10 00:38:41.812139, unique parking bays csv updated
+2021-09-10 00:53:44.202425, dataset retrieved and appended to csv
+2021-09-10 00:53:44.202446, unique parking bays csv updated
+2021-09-10 01:08:46.149802, dataset retrieved and appended to csv
+2021-09-10 01:08:46.149825, unique parking bays csv updated
+2021-09-10 01:23:48.505976, dataset retrieved and appended to csv
+2021-09-10 01:23:48.505993, unique parking bays csv updated
+2021-09-10 01:38:51.016411, dataset retrieved and appended to csv
+2021-09-10 01:38:51.016428, unique parking bays csv updated
+2021-09-10 01:53:53.131475, dataset retrieved and appended to csv
+2021-09-10 01:53:53.131493, unique parking bays csv updated
+2021-09-10 02:08:55.712232, dataset retrieved and appended to csv
+2021-09-10 02:08:55.712249, unique parking bays csv updated
+2021-09-10 02:23:57.901603, dataset retrieved and appended to csv
+2021-09-10 02:23:57.901625, unique parking bays csv updated
+2021-09-10 02:39:00.067256, dataset retrieved and appended to csv
+2021-09-10 02:39:00.067277, unique parking bays csv updated
+2021-09-10 02:54:02.453371, dataset retrieved and appended to csv
+2021-09-10 02:54:02.453389, unique parking bays csv updated
+2021-09-10 03:09:04.864749, dataset retrieved and appended to csv
+2021-09-10 03:09:04.864774, unique parking bays csv updated
+2021-09-10 03:24:07.477825, dataset retrieved and appended to csv
+2021-09-10 03:24:07.477844, unique parking bays csv updated
+2021-09-10 03:39:09.997003, dataset retrieved and appended to csv
+2021-09-10 03:39:09.997020, unique parking bays csv updated
+2021-09-10 03:54:12.144038, dataset retrieved and appended to csv
+2021-09-10 03:54:12.144059, unique parking bays csv updated
+2021-09-10 04:09:14.417777, dataset retrieved and appended to csv
+2021-09-10 04:09:14.417796, unique parking bays csv updated
+2021-09-10 04:24:16.835861, dataset retrieved and appended to csv
+2021-09-10 04:24:16.835881, unique parking bays csv updated
+2021-09-10 04:39:19.106664, dataset retrieved and appended to csv
+2021-09-10 04:39:19.106682, unique parking bays csv updated
+2021-09-10 04:54:21.566070, dataset retrieved and appended to csv
+2021-09-10 04:54:21.566087, unique parking bays csv updated
+2021-09-10 05:09:23.770816, dataset retrieved and appended to csv
+2021-09-10 05:09:23.770835, unique parking bays csv updated
+2021-09-10 05:24:25.902381, dataset retrieved and appended to csv
+2021-09-10 05:24:25.902404, unique parking bays csv updated
+2021-09-10 05:39:27.997834, dataset retrieved and appended to csv
+2021-09-10 05:39:27.997852, unique parking bays csv updated
+2021-09-10 05:54:30.447408, dataset retrieved and appended to csv
+2021-09-10 05:54:30.447430, unique parking bays csv updated
+2021-09-10 06:09:32.731890, dataset retrieved and appended to csv
+2021-09-10 06:09:32.731909, unique parking bays csv updated
+2021-09-10 06:24:35.271323, dataset retrieved and appended to csv
+2021-09-10 06:24:35.271340, unique parking bays csv updated
+2021-09-10 06:39:37.090587, dataset retrieved and appended to csv
+2021-09-10 06:39:37.090613, unique parking bays csv updated
+2021-09-10 06:54:39.239389, dataset retrieved and appended to csv
+2021-09-10 06:54:39.239415, unique parking bays csv updated
+2021-09-10 07:09:41.264630, dataset retrieved and appended to csv
+2021-09-10 07:09:41.264648, unique parking bays csv updated
+2021-09-10 07:24:43.245190, dataset retrieved and appended to csv
+2021-09-10 07:24:43.245208, unique parking bays csv updated
+2021-09-10 07:39:45.062243, dataset retrieved and appended to csv
+2021-09-10 07:39:45.062262, unique parking bays csv updated
+2021-09-10 07:54:47.104683, dataset retrieved and appended to csv
+2021-09-10 07:54:47.104701, unique parking bays csv updated
+2021-09-10 08:09:49.536211, dataset retrieved and appended to csv
+2021-09-10 08:09:49.536232, unique parking bays csv updated
+2021-09-10 08:24:51.747232, dataset retrieved and appended to csv
+2021-09-10 08:24:51.747249, unique parking bays csv updated
+2021-09-10 08:39:53.651031, dataset retrieved and appended to csv
+2021-09-10 08:39:53.651051, unique parking bays csv updated
+2021-09-10 08:54:55.925046, dataset retrieved and appended to csv
+2021-09-10 08:54:55.925064, unique parking bays csv updated
+2021-09-10 09:09:58.105080, dataset retrieved and appended to csv
+2021-09-10 09:09:58.105098, unique parking bays csv updated
+2021-09-10 09:25:00.335496, dataset retrieved and appended to csv
+2021-09-10 09:25:00.335515, unique parking bays csv updated
+2021-09-10 09:40:02.606305, dataset retrieved and appended to csv
+2021-09-10 09:40:02.606324, unique parking bays csv updated
+2021-09-10 09:55:04.712374, dataset retrieved and appended to csv
+2021-09-10 09:55:04.712394, unique parking bays csv updated
+2021-09-10 10:10:07.337769, dataset retrieved and appended to csv
+2021-09-10 10:10:07.337789, unique parking bays csv updated
+2021-09-10 10:25:09.333403, dataset retrieved and appended to csv
+2021-09-10 10:25:09.333420, unique parking bays csv updated
+2021-09-10 10:40:11.254322, dataset retrieved and appended to csv
+2021-09-10 10:40:11.254342, unique parking bays csv updated
+2021-09-10 10:55:13.267709, dataset retrieved and appended to csv
+2021-09-10 10:55:13.267727, unique parking bays csv updated
+2021-09-10 11:10:15.880788, dataset retrieved and appended to csv
+2021-09-10 11:10:15.880806, unique parking bays csv updated
+2021-09-10 11:25:18.057745, dataset retrieved and appended to csv
+2021-09-10 11:25:18.057761, unique parking bays csv updated
+2021-09-10 11:40:20.220949, dataset retrieved and appended to csv
+2021-09-10 11:40:20.220988, unique parking bays csv updated
+2021-09-10 11:55:22.193177, dataset retrieved and appended to csv
+2021-09-10 11:55:22.193196, unique parking bays csv updated
+2021-09-10 12:10:24.219762, dataset retrieved and appended to csv
+2021-09-10 12:10:24.219780, unique parking bays csv updated
+2021-09-10 12:25:26.602325, dataset retrieved and appended to csv
+2021-09-10 12:25:26.602348, unique parking bays csv updated
+2021-09-10 12:40:29.740107, dataset retrieved and appended to csv
+2021-09-10 12:40:29.740127, unique parking bays csv updated
+2021-09-10 12:55:31.779062, dataset retrieved and appended to csv
+2021-09-10 12:55:31.779083, unique parking bays csv updated
+2021-09-10 13:10:34.079585, dataset retrieved and appended to csv
+2021-09-10 13:10:34.079609, unique parking bays csv updated
+2021-09-10 13:25:36.072089, dataset retrieved and appended to csv
+2021-09-10 13:25:36.072109, unique parking bays csv updated
+2021-09-10 13:40:38.133413, dataset retrieved and appended to csv
+2021-09-10 13:40:38.133440, unique parking bays csv updated
+2021-09-10 13:55:40.461254, dataset retrieved and appended to csv
+2021-09-10 13:55:40.461272, unique parking bays csv updated
+2021-09-10 14:10:42.505707, dataset retrieved and appended to csv
+2021-09-10 14:10:42.505739, unique parking bays csv updated
+2021-09-10 14:25:44.691592, dataset retrieved and appended to csv
+2021-09-10 14:25:44.691619, unique parking bays csv updated
+2021-09-10 14:40:46.547285, dataset retrieved and appended to csv
+2021-09-10 14:40:46.547302, unique parking bays csv updated
+2021-09-10 14:55:48.803154, dataset retrieved and appended to csv
+2021-09-10 14:55:48.803176, unique parking bays csv updated
+2021-09-10 15:10:50.907150, dataset retrieved and appended to csv
+2021-09-10 15:10:50.907167, unique parking bays csv updated
+2021-09-10 15:25:53.207607, dataset retrieved and appended to csv
+2021-09-10 15:25:53.207626, unique parking bays csv updated
+2021-09-10 15:40:55.577810, dataset retrieved and appended to csv
+2021-09-10 15:40:55.577833, unique parking bays csv updated
+2021-09-10 15:55:57.556995, dataset retrieved and appended to csv
+2021-09-10 15:55:57.557016, unique parking bays csv updated
+2021-09-10 16:10:59.461449, dataset retrieved and appended to csv
+2021-09-10 16:10:59.461509, unique parking bays csv updated
+2021-09-10 16:26:01.661375, dataset retrieved and appended to csv
+2021-09-10 16:26:01.661392, unique parking bays csv updated
+2021-09-10 16:41:03.709355, dataset retrieved and appended to csv
+2021-09-10 16:41:03.709372, unique parking bays csv updated
+2021-09-10 16:56:05.918596, dataset retrieved and appended to csv
+2021-09-10 16:56:05.918615, unique parking bays csv updated
+2021-09-10 17:11:08.002203, dataset retrieved and appended to csv
+2021-09-10 17:11:08.002227, unique parking bays csv updated
+2021-09-10 17:26:10.022469, dataset retrieved and appended to csv
+2021-09-10 17:26:10.022495, unique parking bays csv updated
+2021-09-10 17:41:11.852945, dataset retrieved and appended to csv
+2021-09-10 17:41:11.852961, unique parking bays csv updated
+2021-09-10 17:56:14.031887, dataset retrieved and appended to csv
+2021-09-10 17:56:14.031913, unique parking bays csv updated
+2021-09-10 18:11:16.057168, dataset retrieved and appended to csv
+2021-09-10 18:11:16.057196, unique parking bays csv updated
+2021-09-10 18:26:17.887210, dataset retrieved and appended to csv
+2021-09-10 18:26:17.887229, unique parking bays csv updated
+2021-09-10 18:41:19.847048, dataset retrieved and appended to csv
+2021-09-10 18:41:19.847066, unique parking bays csv updated
+2021-09-10 18:56:21.592835, dataset retrieved and appended to csv
+2021-09-10 18:56:21.592859, unique parking bays csv updated
+2021-09-10 19:11:23.530248, dataset retrieved and appended to csv
+2021-09-10 19:11:23.530268, unique parking bays csv updated
+2021-09-10 19:26:25.494646, dataset retrieved and appended to csv
+2021-09-10 19:26:25.494663, unique parking bays csv updated
+2021-09-10 19:41:27.689912, dataset retrieved and appended to csv
+2021-09-10 19:41:27.689937, unique parking bays csv updated
+2021-09-10 19:56:29.768372, dataset retrieved and appended to csv
+2021-09-10 19:56:29.768389, unique parking bays csv updated
+2021-09-10 20:11:32.021219, dataset retrieved and appended to csv
+2021-09-10 20:11:32.021236, unique parking bays csv updated
+2021-09-10 20:26:34.138465, dataset retrieved and appended to csv
+2021-09-10 20:26:34.138484, unique parking bays csv updated
+2021-09-10 20:41:36.253241, dataset retrieved and appended to csv
+2021-09-10 20:41:36.253258, unique parking bays csv updated
+2021-09-10 20:56:38.280988, dataset retrieved and appended to csv
+2021-09-10 20:56:38.281013, unique parking bays csv updated
+2021-09-10 21:11:43.138008, dataset retrieved and appended to csv
+2021-09-10 21:11:43.138027, unique parking bays csv updated
+2021-09-10 21:26:45.179461, dataset retrieved and appended to csv
+2021-09-10 21:26:45.179478, unique parking bays csv updated
+2021-09-10 21:41:47.534625, dataset retrieved and appended to csv
+2021-09-10 21:41:47.534648, unique parking bays csv updated
+2021-09-10 21:56:49.700270, dataset retrieved and appended to csv
+2021-09-10 21:56:49.700288, unique parking bays csv updated
+2021-09-10 22:11:52.478036, dataset retrieved and appended to csv
+2021-09-10 22:11:52.478055, unique parking bays csv updated
+2021-09-10 22:26:55.019472, dataset retrieved and appended to csv
+2021-09-10 22:26:55.019498, unique parking bays csv updated
+2021-09-10 22:41:57.376791, dataset retrieved and appended to csv
+2021-09-10 22:41:57.376811, unique parking bays csv updated
+2021-09-10 22:56:59.887052, dataset retrieved and appended to csv
+2021-09-10 22:56:59.887079, unique parking bays csv updated
+2021-09-10 23:12:02.209971, dataset retrieved and appended to csv
+2021-09-10 23:12:02.209991, unique parking bays csv updated
+2021-09-10 23:27:04.753663, dataset retrieved and appended to csv
+2021-09-10 23:27:04.753683, unique parking bays csv updated
+2021-09-10 23:42:07.235519, dataset retrieved and appended to csv
+2021-09-10 23:42:07.235537, unique parking bays csv updated
+2021-09-10 23:57:10.075338, dataset retrieved and appended to csv
+2021-09-10 23:57:10.075357, unique parking bays csv updated
+2021-09-11 00:12:12.813434, dataset retrieved and appended to csv
+2021-09-11 00:12:12.813450, unique parking bays csv updated
+2021-09-11 00:27:15.191646, dataset retrieved and appended to csv
+2021-09-11 00:27:15.191665, unique parking bays csv updated
+2021-09-11 00:42:17.467109, dataset retrieved and appended to csv
+2021-09-11 00:42:17.467129, unique parking bays csv updated
+2021-09-11 00:57:19.557133, dataset retrieved and appended to csv
+2021-09-11 00:57:19.557150, unique parking bays csv updated
+2021-09-11 01:12:21.321159, dataset retrieved and appended to csv
+2021-09-11 01:12:21.321177, unique parking bays csv updated
+2021-09-11 01:27:23.659753, dataset retrieved and appended to csv
+2021-09-11 01:27:23.659774, unique parking bays csv updated
+2021-09-11 01:42:25.826574, dataset retrieved and appended to csv
+2021-09-11 01:42:25.826591, unique parking bays csv updated
+2021-09-11 01:57:27.760268, dataset retrieved and appended to csv
+2021-09-11 01:57:27.760287, unique parking bays csv updated
+2021-09-11 02:12:30.231214, dataset retrieved and appended to csv
+2021-09-11 02:12:30.231233, unique parking bays csv updated
+2021-09-11 02:27:33.287741, dataset retrieved and appended to csv
+2021-09-11 02:27:33.287760, unique parking bays csv updated
+2021-09-11 02:42:35.738647, dataset retrieved and appended to csv
+2021-09-11 02:42:35.738670, unique parking bays csv updated
+2021-09-11 02:57:37.641761, dataset retrieved and appended to csv
+2021-09-11 02:57:37.641780, unique parking bays csv updated
+2021-09-11 03:12:39.679512, dataset retrieved and appended to csv
+2021-09-11 03:12:39.679532, unique parking bays csv updated
+2021-09-11 03:27:41.870197, dataset retrieved and appended to csv
+2021-09-11 03:27:41.870216, unique parking bays csv updated
+2021-09-11 03:42:44.780881, dataset retrieved and appended to csv
+2021-09-11 03:42:44.780912, unique parking bays csv updated
+2021-09-11 03:57:46.723267, dataset retrieved and appended to csv
+2021-09-11 03:57:46.723290, unique parking bays csv updated
+2021-09-11 04:12:49.253399, dataset retrieved and appended to csv
+2021-09-11 04:12:49.253418, unique parking bays csv updated
+2021-09-11 04:27:51.089143, dataset retrieved and appended to csv
+2021-09-11 04:27:51.089162, unique parking bays csv updated
+2021-09-11 04:42:53.518015, dataset retrieved and appended to csv
+2021-09-11 04:42:53.518033, unique parking bays csv updated
+2021-09-11 04:57:55.657473, dataset retrieved and appended to csv
+2021-09-11 04:57:55.657492, unique parking bays csv updated
+2021-09-11 05:12:57.530810, dataset retrieved and appended to csv
+2021-09-11 05:12:57.530827, unique parking bays csv updated
+2021-09-11 05:28:00.014113, dataset retrieved and appended to csv
+2021-09-11 05:28:00.014131, unique parking bays csv updated
+2021-09-11 05:43:02.199699, dataset retrieved and appended to csv
+2021-09-11 05:43:02.199717, unique parking bays csv updated
+2021-09-11 05:58:04.553483, dataset retrieved and appended to csv
+2021-09-11 05:58:04.553506, unique parking bays csv updated
+2021-09-11 06:13:06.569446, dataset retrieved and appended to csv
+2021-09-11 06:13:06.569464, unique parking bays csv updated
+2021-09-11 06:28:09.151665, dataset retrieved and appended to csv
+2021-09-11 06:28:09.151684, unique parking bays csv updated
+2021-09-11 06:43:11.202640, dataset retrieved and appended to csv
+2021-09-11 06:43:11.202665, unique parking bays csv updated
+2021-09-11 06:58:13.503387, dataset retrieved and appended to csv
+2021-09-11 06:58:13.503406, unique parking bays csv updated
+2021-09-11 07:13:15.344296, dataset retrieved and appended to csv
+2021-09-11 07:13:15.344323, unique parking bays csv updated
+2021-09-11 07:28:17.307800, dataset retrieved and appended to csv
+2021-09-11 07:28:17.307820, unique parking bays csv updated
+2021-09-11 07:43:19.435510, dataset retrieved and appended to csv
+2021-09-11 07:43:19.435534, unique parking bays csv updated
+2021-09-11 07:58:22.288690, dataset retrieved and appended to csv
+2021-09-11 07:58:22.288715, unique parking bays csv updated
+2021-09-11 08:13:24.595840, dataset retrieved and appended to csv
+2021-09-11 08:13:24.595856, unique parking bays csv updated
+2021-09-11 08:28:27.157061, dataset retrieved and appended to csv
+2021-09-11 08:28:27.157083, unique parking bays csv updated
+2021-09-11 08:43:29.288401, dataset retrieved and appended to csv
+2021-09-11 08:43:29.288422, unique parking bays csv updated
+2021-09-11 08:58:31.264821, dataset retrieved and appended to csv
+2021-09-11 08:58:31.264840, unique parking bays csv updated
+2021-09-11 09:13:33.682698, dataset retrieved and appended to csv
+2021-09-11 09:13:33.682718, unique parking bays csv updated
+2021-09-11 09:28:35.967295, dataset retrieved and appended to csv
+2021-09-11 09:28:35.967312, unique parking bays csv updated
+2021-09-11 09:43:38.515517, dataset retrieved and appended to csv
+2021-09-11 09:43:38.515546, unique parking bays csv updated
+2021-09-11 09:58:40.732020, dataset retrieved and appended to csv
+2021-09-11 09:58:40.732042, unique parking bays csv updated
+2021-09-11 10:13:43.780138, dataset retrieved and appended to csv
+2021-09-11 10:13:43.780155, unique parking bays csv updated
+2021-09-11 10:28:45.901433, dataset retrieved and appended to csv
+2021-09-11 10:28:45.901450, unique parking bays csv updated
+2021-09-11 10:43:48.345950, dataset retrieved and appended to csv
+2021-09-11 10:43:48.345968, unique parking bays csv updated
+2021-09-11 10:58:50.326845, dataset retrieved and appended to csv
+2021-09-11 10:58:50.326862, unique parking bays csv updated
+2021-09-11 11:13:52.384788, dataset retrieved and appended to csv
+2021-09-11 11:13:52.384832, unique parking bays csv updated
+2021-09-11 11:28:55.534627, dataset retrieved and appended to csv
+2021-09-11 11:28:55.534651, unique parking bays csv updated
+2021-09-11 11:43:57.578707, dataset retrieved and appended to csv
+2021-09-11 11:43:57.578724, unique parking bays csv updated
+2021-09-11 11:58:59.615648, dataset retrieved and appended to csv
+2021-09-11 11:58:59.615668, unique parking bays csv updated
+2021-09-11 12:14:01.621528, dataset retrieved and appended to csv
+2021-09-11 12:14:01.621546, unique parking bays csv updated
+2021-09-11 12:29:03.413041, dataset retrieved and appended to csv
+2021-09-11 12:29:03.413057, unique parking bays csv updated
+2021-09-11 12:44:05.402023, dataset retrieved and appended to csv
+2021-09-11 12:44:05.402045, unique parking bays csv updated
+2021-09-11 12:59:07.469316, dataset retrieved and appended to csv
+2021-09-11 12:59:07.469342, unique parking bays csv updated
+2021-09-11 13:14:09.531279, dataset retrieved and appended to csv
+2021-09-11 13:14:09.531296, unique parking bays csv updated
+2021-09-11 13:29:11.618793, dataset retrieved and appended to csv
+2021-09-11 13:29:11.618812, unique parking bays csv updated
+2021-09-11 13:44:13.700596, dataset retrieved and appended to csv
+2021-09-11 13:44:13.700613, unique parking bays csv updated
+2021-09-11 13:59:15.898132, dataset retrieved and appended to csv
+2021-09-11 13:59:15.898150, unique parking bays csv updated
+2021-09-11 14:14:18.227101, dataset retrieved and appended to csv
+2021-09-11 14:14:18.227118, unique parking bays csv updated
+2021-09-11 14:29:20.660685, dataset retrieved and appended to csv
+2021-09-11 14:29:20.660703, unique parking bays csv updated
+2021-09-11 14:44:22.750984, dataset retrieved and appended to csv
+2021-09-11 14:44:22.751000, unique parking bays csv updated
+2021-09-11 14:59:26.410753, dataset retrieved and appended to csv
+2021-09-11 14:59:26.410777, unique parking bays csv updated
+2021-09-11 15:14:28.295392, dataset retrieved and appended to csv
+2021-09-11 15:14:28.295408, unique parking bays csv updated
+2021-09-11 15:29:30.855169, dataset retrieved and appended to csv
+2021-09-11 15:29:30.855188, unique parking bays csv updated
+2021-09-11 15:44:33.084103, dataset retrieved and appended to csv
+2021-09-11 15:44:33.084119, unique parking bays csv updated
+2021-09-11 15:59:35.182165, dataset retrieved and appended to csv
+2021-09-11 15:59:35.182193, unique parking bays csv updated
+2021-09-11 16:14:37.392396, dataset retrieved and appended to csv
+2021-09-11 16:14:37.392415, unique parking bays csv updated
+2021-09-11 16:29:39.483373, dataset retrieved and appended to csv
+2021-09-11 16:29:39.483392, unique parking bays csv updated
+2021-09-11 16:44:41.680948, dataset retrieved and appended to csv
+2021-09-11 16:44:41.680967, unique parking bays csv updated
+2021-09-11 16:59:44.066277, dataset retrieved and appended to csv
+2021-09-11 16:59:44.066300, unique parking bays csv updated
+2021-09-11 17:14:45.979753, dataset retrieved and appended to csv
+2021-09-11 17:14:45.979772, unique parking bays csv updated
+2021-09-11 17:29:48.101346, dataset retrieved and appended to csv
+2021-09-11 17:29:48.101364, unique parking bays csv updated
+2021-09-11 17:44:50.266355, dataset retrieved and appended to csv
+2021-09-11 17:44:50.266375, unique parking bays csv updated
+2021-09-11 17:59:52.889659, dataset retrieved and appended to csv
+2021-09-11 17:59:52.889676, unique parking bays csv updated
+2021-09-11 18:14:55.461185, dataset retrieved and appended to csv
+2021-09-11 18:14:55.461201, unique parking bays csv updated
+2021-09-11 18:29:57.527035, dataset retrieved and appended to csv
+2021-09-11 18:29:57.527055, unique parking bays csv updated
+2021-09-11 18:44:59.900259, dataset retrieved and appended to csv
+2021-09-11 18:44:59.900283, unique parking bays csv updated
+2021-09-11 19:00:01.789597, dataset retrieved and appended to csv
+2021-09-11 19:00:01.789616, unique parking bays csv updated
+2021-09-11 19:15:03.911687, dataset retrieved and appended to csv
+2021-09-11 19:15:03.911709, unique parking bays csv updated
+2021-09-11 19:30:06.292068, dataset retrieved and appended to csv
+2021-09-11 19:30:06.292086, unique parking bays csv updated
+2021-09-11 19:45:08.291917, dataset retrieved and appended to csv
+2021-09-11 19:45:08.291940, unique parking bays csv updated
+2021-09-11 20:00:10.501004, dataset retrieved and appended to csv
+2021-09-11 20:00:10.501021, unique parking bays csv updated
+2021-09-11 20:15:12.586984, dataset retrieved and appended to csv
+2021-09-11 20:15:12.587003, unique parking bays csv updated
+2021-09-11 20:30:14.764654, dataset retrieved and appended to csv
+2021-09-11 20:30:14.764675, unique parking bays csv updated
+2021-09-11 20:45:17.290419, dataset retrieved and appended to csv
+2021-09-11 20:45:17.290437, unique parking bays csv updated
+2021-09-11 21:00:19.177275, dataset retrieved and appended to csv
+2021-09-11 21:00:19.177301, unique parking bays csv updated
+2021-09-11 21:15:21.129622, dataset retrieved and appended to csv
+2021-09-11 21:15:21.129646, unique parking bays csv updated
+2021-09-11 21:30:23.625573, dataset retrieved and appended to csv
+2021-09-11 21:30:23.625591, unique parking bays csv updated
+2021-09-11 21:45:25.564361, dataset retrieved and appended to csv
+2021-09-11 21:45:25.564391, unique parking bays csv updated
+2021-09-11 22:00:27.744643, dataset retrieved and appended to csv
+2021-09-11 22:00:27.744667, unique parking bays csv updated
+2021-09-11 22:15:29.725997, dataset retrieved and appended to csv
+2021-09-11 22:15:29.726034, unique parking bays csv updated
+2021-09-11 22:30:31.700781, dataset retrieved and appended to csv
+2021-09-11 22:30:31.700803, unique parking bays csv updated
+2021-09-11 22:45:34.027353, dataset retrieved and appended to csv
+2021-09-11 22:45:34.027369, unique parking bays csv updated
+2021-09-11 23:00:36.091638, dataset retrieved and appended to csv
+2021-09-11 23:00:36.091659, unique parking bays csv updated
+2021-09-11 23:15:38.461654, dataset retrieved and appended to csv
+2021-09-11 23:15:38.461673, unique parking bays csv updated
+2021-09-11 23:30:40.397609, dataset retrieved and appended to csv
+2021-09-11 23:30:40.397627, unique parking bays csv updated
+2021-09-11 23:45:42.608402, dataset retrieved and appended to csv
+2021-09-11 23:45:42.608419, unique parking bays csv updated
+2021-09-12 00:00:44.785465, dataset retrieved and appended to csv
+2021-09-12 00:00:44.785485, unique parking bays csv updated
+2021-09-12 00:15:46.872565, dataset retrieved and appended to csv
+2021-09-12 00:15:46.872585, unique parking bays csv updated
+2021-09-12 00:30:49.048872, dataset retrieved and appended to csv
+2021-09-12 00:30:49.048891, unique parking bays csv updated
+2021-09-12 00:45:51.175353, dataset retrieved and appended to csv
+2021-09-12 00:45:51.175370, unique parking bays csv updated
+2021-09-12 01:00:53.913489, dataset retrieved and appended to csv
+2021-09-12 01:00:53.913506, unique parking bays csv updated
+2021-09-12 01:15:55.818281, dataset retrieved and appended to csv
+2021-09-12 01:15:55.818302, unique parking bays csv updated
+2021-09-12 01:30:58.026902, dataset retrieved and appended to csv
+2021-09-12 01:30:58.026922, unique parking bays csv updated
+2021-09-12 01:46:00.149378, dataset retrieved and appended to csv
+2021-09-12 01:46:00.149397, unique parking bays csv updated
+2021-09-12 02:01:02.194119, dataset retrieved and appended to csv
+2021-09-12 02:01:02.194137, unique parking bays csv updated
+2021-09-12 02:16:04.240373, dataset retrieved and appended to csv
+2021-09-12 02:16:04.240391, unique parking bays csv updated
+2021-09-12 02:31:06.350946, dataset retrieved and appended to csv
+2021-09-12 02:31:06.350965, unique parking bays csv updated
+2021-09-12 02:46:08.765531, dataset retrieved and appended to csv
+2021-09-12 02:46:08.765550, unique parking bays csv updated
+2021-09-12 03:01:10.839209, dataset retrieved and appended to csv
+2021-09-12 03:01:10.839227, unique parking bays csv updated
+2021-09-12 03:16:12.797693, dataset retrieved and appended to csv
+2021-09-12 03:16:12.797710, unique parking bays csv updated
+2021-09-12 03:31:14.797944, dataset retrieved and appended to csv
+2021-09-12 03:31:14.797962, unique parking bays csv updated
+2021-09-12 03:46:16.804262, dataset retrieved and appended to csv
+2021-09-12 03:46:16.804279, unique parking bays csv updated
+2021-09-12 04:01:19.391009, dataset retrieved and appended to csv
+2021-09-12 04:01:19.391028, unique parking bays csv updated
+2021-09-12 04:16:21.349025, dataset retrieved and appended to csv
+2021-09-12 04:16:21.349044, unique parking bays csv updated
+2021-09-12 04:31:23.463622, dataset retrieved and appended to csv
+2021-09-12 04:31:23.463642, unique parking bays csv updated
+2021-09-12 04:46:25.503832, dataset retrieved and appended to csv
+2021-09-12 04:46:25.503852, unique parking bays csv updated
+2021-09-12 05:01:27.402064, dataset retrieved and appended to csv
+2021-09-12 05:01:27.402091, unique parking bays csv updated
+2021-09-12 05:16:29.605215, dataset retrieved and appended to csv
+2021-09-12 05:16:29.605239, unique parking bays csv updated
+2021-09-12 05:31:31.815767, dataset retrieved and appended to csv
+2021-09-12 05:31:31.815792, unique parking bays csv updated
+2021-09-12 05:46:33.952248, dataset retrieved and appended to csv
+2021-09-12 05:46:33.952267, unique parking bays csv updated
+2021-09-12 06:01:36.038965, dataset retrieved and appended to csv
+2021-09-12 06:01:36.038983, unique parking bays csv updated
+2021-09-12 06:16:38.163334, dataset retrieved and appended to csv
+2021-09-12 06:16:38.163353, unique parking bays csv updated
+2021-09-12 06:31:40.444629, dataset retrieved and appended to csv
+2021-09-12 06:31:40.444646, unique parking bays csv updated
+2021-09-12 06:46:42.518489, dataset retrieved and appended to csv
+2021-09-12 06:46:42.518508, unique parking bays csv updated
+2021-09-12 07:01:44.613118, dataset retrieved and appended to csv
+2021-09-12 07:01:44.613136, unique parking bays csv updated
+2021-09-12 07:16:46.745000, dataset retrieved and appended to csv
+2021-09-12 07:16:46.745024, unique parking bays csv updated
+2021-09-12 07:31:48.793204, dataset retrieved and appended to csv
+2021-09-12 07:31:48.793223, unique parking bays csv updated
+2021-09-12 07:46:51.083960, dataset retrieved and appended to csv
+2021-09-12 07:46:51.083978, unique parking bays csv updated
+2021-09-12 08:01:53.267793, dataset retrieved and appended to csv
+2021-09-12 08:01:53.267813, unique parking bays csv updated
+2021-09-12 08:16:55.426746, dataset retrieved and appended to csv
+2021-09-12 08:16:55.426763, unique parking bays csv updated
+2021-09-12 08:31:57.480665, dataset retrieved and appended to csv
+2021-09-12 08:31:57.480685, unique parking bays csv updated
+2021-09-12 08:46:59.629388, dataset retrieved and appended to csv
+2021-09-12 08:46:59.629406, unique parking bays csv updated
+2021-09-12 09:02:01.792645, dataset retrieved and appended to csv
+2021-09-12 09:02:01.792663, unique parking bays csv updated
+2021-09-12 09:17:04.160286, dataset retrieved and appended to csv
+2021-09-12 09:17:04.160315, unique parking bays csv updated
+2021-09-12 09:32:06.229610, dataset retrieved and appended to csv
+2021-09-12 09:32:06.229629, unique parking bays csv updated
+2021-09-12 09:47:08.468442, dataset retrieved and appended to csv
+2021-09-12 09:47:08.468461, unique parking bays csv updated
+2021-09-12 10:02:11.219645, dataset retrieved and appended to csv
+2021-09-12 10:02:11.219664, unique parking bays csv updated
+2021-09-12 10:17:13.501408, dataset retrieved and appended to csv
+2021-09-12 10:17:13.501425, unique parking bays csv updated
+2021-09-12 10:32:15.720018, dataset retrieved and appended to csv
+2021-09-12 10:32:15.720044, unique parking bays csv updated
+2021-09-12 10:47:17.858173, dataset retrieved and appended to csv
+2021-09-12 10:47:17.858192, unique parking bays csv updated
+2021-09-12 11:02:20.078726, dataset retrieved and appended to csv
+2021-09-12 11:02:20.078763, unique parking bays csv updated
+2021-09-12 11:17:22.144416, dataset retrieved and appended to csv
+2021-09-12 11:17:22.144442, unique parking bays csv updated
+2021-09-12 11:32:24.285313, dataset retrieved and appended to csv
+2021-09-12 11:32:24.285332, unique parking bays csv updated
+2021-09-12 11:47:26.474128, dataset retrieved and appended to csv
+2021-09-12 11:47:26.474158, unique parking bays csv updated
+2021-09-12 12:02:28.363819, dataset retrieved and appended to csv
+2021-09-12 12:02:28.363837, unique parking bays csv updated
+2021-09-12 12:17:30.404228, dataset retrieved and appended to csv
+2021-09-12 12:17:30.404246, unique parking bays csv updated
+2021-09-12 12:32:32.518483, dataset retrieved and appended to csv
+2021-09-12 12:32:32.518501, unique parking bays csv updated
+2021-09-12 12:47:34.764401, dataset retrieved and appended to csv
+2021-09-12 12:47:34.764420, unique parking bays csv updated
+2021-09-12 13:02:36.852988, dataset retrieved and appended to csv
+2021-09-12 13:02:36.853006, unique parking bays csv updated
+2021-09-12 13:17:39.774276, dataset retrieved and appended to csv
+2021-09-12 13:17:39.774294, unique parking bays csv updated
+2021-09-12 13:32:42.027542, dataset retrieved and appended to csv
+2021-09-12 13:32:42.027569, unique parking bays csv updated
+2021-09-12 13:47:44.220134, dataset retrieved and appended to csv
+2021-09-12 13:47:44.220153, unique parking bays csv updated
+2021-09-12 14:02:46.858556, dataset retrieved and appended to csv
+2021-09-12 14:02:46.858577, unique parking bays csv updated
+2021-09-12 14:17:49.530998, dataset retrieved and appended to csv
+2021-09-12 14:17:49.531017, unique parking bays csv updated
+2021-09-12 14:32:52.174533, dataset retrieved and appended to csv
+2021-09-12 14:32:52.174551, unique parking bays csv updated
+2021-09-12 14:47:54.423820, dataset retrieved and appended to csv
+2021-09-12 14:47:54.423839, unique parking bays csv updated
+2021-09-12 15:02:56.955141, dataset retrieved and appended to csv
+2021-09-12 15:02:56.955168, unique parking bays csv updated
+2021-09-12 15:17:59.179715, dataset retrieved and appended to csv
+2021-09-12 15:17:59.179734, unique parking bays csv updated
+2021-09-12 15:33:01.609421, dataset retrieved and appended to csv
+2021-09-12 15:33:01.609440, unique parking bays csv updated
+2021-09-12 15:48:03.807738, dataset retrieved and appended to csv
+2021-09-12 15:48:03.807766, unique parking bays csv updated
+2021-09-12 16:03:06.130410, dataset retrieved and appended to csv
+2021-09-12 16:03:06.130427, unique parking bays csv updated
+2021-09-12 16:18:08.269296, dataset retrieved and appended to csv
+2021-09-12 16:18:08.269316, unique parking bays csv updated
+2021-09-12 16:33:10.358550, dataset retrieved and appended to csv
+2021-09-12 16:33:10.358570, unique parking bays csv updated
+2021-09-12 16:48:12.313913, dataset retrieved and appended to csv
+2021-09-12 16:48:12.313929, unique parking bays csv updated
+2021-09-12 17:03:14.369406, dataset retrieved and appended to csv
+2021-09-12 17:03:14.369427, unique parking bays csv updated
+2021-09-12 17:18:16.399913, dataset retrieved and appended to csv
+2021-09-12 17:18:16.399932, unique parking bays csv updated
+2021-09-12 17:33:18.214889, dataset retrieved and appended to csv
+2021-09-12 17:33:18.214908, unique parking bays csv updated
+2021-09-12 17:48:20.283330, dataset retrieved and appended to csv
+2021-09-12 17:48:20.283349, unique parking bays csv updated
+2021-09-12 18:03:22.484334, dataset retrieved and appended to csv
+2021-09-12 18:03:22.484353, unique parking bays csv updated
+2021-09-12 18:18:24.571628, dataset retrieved and appended to csv
+2021-09-12 18:18:24.571646, unique parking bays csv updated
+2021-09-12 18:33:27.030429, dataset retrieved and appended to csv
+2021-09-12 18:33:27.030449, unique parking bays csv updated
+2021-09-12 18:48:29.078717, dataset retrieved and appended to csv
+2021-09-12 18:48:29.078735, unique parking bays csv updated
+2021-09-12 19:03:30.971933, dataset retrieved and appended to csv
+2021-09-12 19:03:30.971953, unique parking bays csv updated
+2021-09-12 19:18:32.908456, dataset retrieved and appended to csv
+2021-09-12 19:18:32.908483, unique parking bays csv updated
+2021-09-12 19:33:35.160425, dataset retrieved and appended to csv
+2021-09-12 19:33:35.160443, unique parking bays csv updated
+2021-09-12 19:48:37.175105, dataset retrieved and appended to csv
+2021-09-12 19:48:37.175124, unique parking bays csv updated
+2021-09-12 20:03:39.156601, dataset retrieved and appended to csv
+2021-09-12 20:03:39.156624, unique parking bays csv updated
+2021-09-12 20:18:41.032071, dataset retrieved and appended to csv
+2021-09-12 20:18:41.032090, unique parking bays csv updated
+2021-09-12 20:33:43.017060, dataset retrieved and appended to csv
+2021-09-12 20:33:43.017077, unique parking bays csv updated
+2021-09-12 20:48:45.127053, dataset retrieved and appended to csv
+2021-09-12 20:48:45.127072, unique parking bays csv updated
+2021-09-12 21:03:47.333417, dataset retrieved and appended to csv
+2021-09-12 21:03:47.333441, unique parking bays csv updated
+2021-09-12 21:18:49.583415, dataset retrieved and appended to csv
+2021-09-12 21:18:49.583436, unique parking bays csv updated
+2021-09-12 21:33:51.785163, dataset retrieved and appended to csv
+2021-09-12 21:33:51.785182, unique parking bays csv updated
+2021-09-12 21:48:53.799358, dataset retrieved and appended to csv
+2021-09-12 21:48:53.799381, unique parking bays csv updated
+2021-09-12 22:03:55.907815, dataset retrieved and appended to csv
+2021-09-12 22:03:55.907840, unique parking bays csv updated
+2021-09-12 22:18:57.989312, dataset retrieved and appended to csv
+2021-09-12 22:18:57.989342, unique parking bays csv updated
+2021-09-12 22:34:00.932478, dataset retrieved and appended to csv
+2021-09-12 22:34:00.932496, unique parking bays csv updated
+2021-09-12 22:49:03.058799, dataset retrieved and appended to csv
+2021-09-12 22:49:03.058816, unique parking bays csv updated
+2021-09-12 23:04:05.598475, dataset retrieved and appended to csv
+2021-09-12 23:04:05.598493, unique parking bays csv updated
+2021-09-12 23:19:08.157387, dataset retrieved and appended to csv
+2021-09-12 23:19:08.157406, unique parking bays csv updated
+2021-09-12 23:34:10.204892, dataset retrieved and appended to csv
+2021-09-12 23:34:10.204922, unique parking bays csv updated
+2021-09-12 23:49:12.370702, dataset retrieved and appended to csv
+2021-09-12 23:49:12.370725, unique parking bays csv updated
+2021-09-13 00:04:14.596225, dataset retrieved and appended to csv
+2021-09-13 00:04:14.596242, unique parking bays csv updated
+2021-09-13 00:19:16.477276, dataset retrieved and appended to csv
+2021-09-13 00:19:16.477294, unique parking bays csv updated
+2021-09-13 00:34:18.968142, dataset retrieved and appended to csv
+2021-09-13 00:34:18.968161, unique parking bays csv updated
+2021-09-13 00:49:20.972087, dataset retrieved and appended to csv
+2021-09-13 00:49:20.972108, unique parking bays csv updated
+2021-09-13 01:04:23.104516, dataset retrieved and appended to csv
+2021-09-13 01:04:23.104548, unique parking bays csv updated
+2021-09-13 01:19:25.442804, dataset retrieved and appended to csv
+2021-09-13 01:19:25.442821, unique parking bays csv updated
+2021-09-13 01:34:27.861795, dataset retrieved and appended to csv
+2021-09-13 01:34:27.861821, unique parking bays csv updated
+2021-09-13 01:49:30.126243, dataset retrieved and appended to csv
+2021-09-13 01:49:30.126262, unique parking bays csv updated
+2021-09-13 02:04:32.717169, dataset retrieved and appended to csv
+2021-09-13 02:04:32.717186, unique parking bays csv updated
+2021-09-13 02:19:35.307185, dataset retrieved and appended to csv
+2021-09-13 02:19:35.307204, unique parking bays csv updated
+2021-09-13 02:34:37.839840, dataset retrieved and appended to csv
+2021-09-13 02:34:37.839861, unique parking bays csv updated
+2021-09-13 02:49:40.919921, dataset retrieved and appended to csv
+2021-09-13 02:49:40.919940, unique parking bays csv updated
+2021-09-13 03:04:43.157050, dataset retrieved and appended to csv
+2021-09-13 03:04:43.157071, unique parking bays csv updated
+2021-09-13 03:19:45.270600, dataset retrieved and appended to csv
+2021-09-13 03:19:45.270620, unique parking bays csv updated
+2021-09-13 03:34:47.319663, dataset retrieved and appended to csv
+2021-09-13 03:34:47.319683, unique parking bays csv updated
+2021-09-13 03:49:50.039640, dataset retrieved and appended to csv
+2021-09-13 03:49:50.039659, unique parking bays csv updated
+2021-09-13 04:04:52.172826, dataset retrieved and appended to csv
+2021-09-13 04:04:52.172843, unique parking bays csv updated
+2021-09-13 04:19:54.641843, dataset retrieved and appended to csv
+2021-09-13 04:19:54.641862, unique parking bays csv updated
+2021-09-13 04:34:56.653525, dataset retrieved and appended to csv
+2021-09-13 04:34:56.653544, unique parking bays csv updated
+2021-09-13 04:49:59.014678, dataset retrieved and appended to csv
+2021-09-13 04:49:59.014699, unique parking bays csv updated
+2021-09-13 05:05:01.581181, dataset retrieved and appended to csv
+2021-09-13 05:05:01.581199, unique parking bays csv updated
+2021-09-13 05:20:03.599288, dataset retrieved and appended to csv
+2021-09-13 05:20:03.599304, unique parking bays csv updated
+2021-09-13 05:35:05.787277, dataset retrieved and appended to csv
+2021-09-13 05:35:05.787296, unique parking bays csv updated
+2021-09-13 05:50:07.990219, dataset retrieved and appended to csv
+2021-09-13 05:50:07.990239, unique parking bays csv updated
+2021-09-13 06:05:10.534873, dataset retrieved and appended to csv
+2021-09-13 06:05:10.534891, unique parking bays csv updated
+2021-09-13 06:20:12.686206, dataset retrieved and appended to csv
+2021-09-13 06:20:12.686223, unique parking bays csv updated
+2021-09-13 06:35:15.470120, dataset retrieved and appended to csv
+2021-09-13 06:35:15.470141, unique parking bays csv updated
+2021-09-13 06:50:17.660813, dataset retrieved and appended to csv
+2021-09-13 06:50:17.660830, unique parking bays csv updated
+2021-09-13 07:05:20.176061, dataset retrieved and appended to csv
+2021-09-13 07:05:20.176085, unique parking bays csv updated
+2021-09-13 07:20:22.147992, dataset retrieved and appended to csv
+2021-09-13 07:20:22.148011, unique parking bays csv updated
+2021-09-13 07:35:23.984073, dataset retrieved and appended to csv
+2021-09-13 07:35:23.984098, unique parking bays csv updated
+2021-09-13 07:50:26.450160, dataset retrieved and appended to csv
+2021-09-13 07:50:26.450188, unique parking bays csv updated
+2021-09-13 08:05:28.831139, dataset retrieved and appended to csv
+2021-09-13 08:05:28.831161, unique parking bays csv updated
+2021-09-13 08:20:31.060856, dataset retrieved and appended to csv
+2021-09-13 08:20:31.060877, unique parking bays csv updated
+2021-09-13 08:35:33.239385, dataset retrieved and appended to csv
+2021-09-13 08:35:33.239405, unique parking bays csv updated
+2021-09-13 08:50:35.385315, dataset retrieved and appended to csv
+2021-09-13 08:50:35.385337, unique parking bays csv updated
+2021-09-13 09:05:37.741106, dataset retrieved and appended to csv
+2021-09-13 09:05:37.741128, unique parking bays csv updated
+2021-09-13 09:20:40.139045, dataset retrieved and appended to csv
+2021-09-13 09:20:40.139063, unique parking bays csv updated
+2021-09-13 09:35:42.399951, dataset retrieved and appended to csv
+2021-09-13 09:35:42.399982, unique parking bays csv updated
+2021-09-13 09:50:44.343291, dataset retrieved and appended to csv
+2021-09-13 09:50:44.343308, unique parking bays csv updated
+2021-09-13 10:05:46.959447, dataset retrieved and appended to csv
+2021-09-13 10:05:46.959466, unique parking bays csv updated
+2021-09-13 10:20:49.237401, dataset retrieved and appended to csv
+2021-09-13 10:20:49.237418, unique parking bays csv updated
+2021-09-13 10:35:51.140212, dataset retrieved and appended to csv
+2021-09-13 10:35:51.140232, unique parking bays csv updated
+2021-09-13 10:50:53.464024, dataset retrieved and appended to csv
+2021-09-13 10:50:53.464041, unique parking bays csv updated
+2021-09-13 11:05:55.595799, dataset retrieved and appended to csv
+2021-09-13 11:05:55.595818, unique parking bays csv updated
+2021-09-13 11:20:57.700431, dataset retrieved and appended to csv
+2021-09-13 11:20:57.700453, unique parking bays csv updated
+2021-09-13 11:36:00.003637, dataset retrieved and appended to csv
+2021-09-13 11:36:00.003666, unique parking bays csv updated
+2021-09-13 11:51:03.278416, dataset retrieved and appended to csv
+2021-09-13 11:51:03.278441, unique parking bays csv updated
+2021-09-13 12:06:05.732182, dataset retrieved and appended to csv
+2021-09-13 12:06:05.732209, unique parking bays csv updated
+2021-09-13 12:21:07.972069, dataset retrieved and appended to csv
+2021-09-13 12:21:07.972088, unique parking bays csv updated
+2021-09-13 12:36:09.995364, dataset retrieved and appended to csv
+2021-09-13 12:36:09.995385, unique parking bays csv updated
+2021-09-13 12:51:12.156784, dataset retrieved and appended to csv
+2021-09-13 12:51:12.156803, unique parking bays csv updated
+2021-09-13 13:06:14.159063, dataset retrieved and appended to csv
+2021-09-13 13:06:14.159080, unique parking bays csv updated
+2021-09-13 13:21:16.249353, dataset retrieved and appended to csv
+2021-09-13 13:21:16.249372, unique parking bays csv updated
+2021-09-13 13:36:18.481389, dataset retrieved and appended to csv
+2021-09-13 13:36:18.481407, unique parking bays csv updated
+2021-09-13 13:51:20.694204, dataset retrieved and appended to csv
+2021-09-13 13:51:20.694224, unique parking bays csv updated
+2021-09-13 14:06:23.081815, dataset retrieved and appended to csv
+2021-09-13 14:06:23.081833, unique parking bays csv updated
+2021-09-13 14:21:25.473991, dataset retrieved and appended to csv
+2021-09-13 14:21:25.474008, unique parking bays csv updated
+2021-09-13 14:36:27.876848, dataset retrieved and appended to csv
+2021-09-13 14:36:27.876868, unique parking bays csv updated
+2021-09-13 14:51:30.249356, dataset retrieved and appended to csv
+2021-09-13 14:51:30.249377, unique parking bays csv updated
+2021-09-13 15:06:32.343144, dataset retrieved and appended to csv
+2021-09-13 15:06:32.343163, unique parking bays csv updated
+2021-09-13 15:21:34.764111, dataset retrieved and appended to csv
+2021-09-13 15:21:34.764131, unique parking bays csv updated
+2021-09-13 15:36:36.992492, dataset retrieved and appended to csv
+2021-09-13 15:36:36.992509, unique parking bays csv updated
+2021-09-13 15:51:39.071396, dataset retrieved and appended to csv
+2021-09-13 15:51:39.071413, unique parking bays csv updated
+2021-09-13 16:06:41.422842, dataset retrieved and appended to csv
+2021-09-13 16:06:41.422861, unique parking bays csv updated
+2021-09-13 16:21:43.728308, dataset retrieved and appended to csv
+2021-09-13 16:21:43.728327, unique parking bays csv updated
+2021-09-13 16:36:46.093297, dataset retrieved and appended to csv
+2021-09-13 16:36:46.093315, unique parking bays csv updated
+2021-09-13 16:51:47.978267, dataset retrieved and appended to csv
+2021-09-13 16:51:47.978303, unique parking bays csv updated
+2021-09-13 17:06:50.336128, dataset retrieved and appended to csv
+2021-09-13 17:06:50.336147, unique parking bays csv updated
+2021-09-13 17:21:52.729250, dataset retrieved and appended to csv
+2021-09-13 17:21:52.729269, unique parking bays csv updated
+2021-09-13 17:36:54.887470, dataset retrieved and appended to csv
+2021-09-13 17:36:54.887489, unique parking bays csv updated
+2021-09-13 17:51:58.854659, dataset retrieved and appended to csv
+2021-09-13 17:51:58.854676, unique parking bays csv updated
+2021-09-13 18:07:01.160861, dataset retrieved and appended to csv
+2021-09-13 18:07:01.160879, unique parking bays csv updated
+2021-09-13 18:22:03.790844, dataset retrieved and appended to csv
+2021-09-13 18:22:03.790861, unique parking bays csv updated
+2021-09-13 18:37:06.469147, dataset retrieved and appended to csv
+2021-09-13 18:37:06.469165, unique parking bays csv updated
+2021-09-13 18:52:09.183479, dataset retrieved and appended to csv
+2021-09-13 18:52:09.183496, unique parking bays csv updated
+2021-09-13 19:07:11.149397, dataset retrieved and appended to csv
+2021-09-13 19:07:11.149424, unique parking bays csv updated
+2021-09-13 19:22:13.595156, dataset retrieved and appended to csv
+2021-09-13 19:22:13.595182, unique parking bays csv updated
+2021-09-13 19:37:15.818925, dataset retrieved and appended to csv
+2021-09-13 19:37:15.818953, unique parking bays csv updated
+2021-09-13 19:52:18.513502, dataset retrieved and appended to csv
+2021-09-13 19:52:18.513519, unique parking bays csv updated
+2021-09-13 20:07:20.627575, dataset retrieved and appended to csv
+2021-09-13 20:07:20.627598, unique parking bays csv updated
+2021-09-13 20:22:23.082941, dataset retrieved and appended to csv
+2021-09-13 20:22:23.082959, unique parking bays csv updated
+2021-09-13 20:37:25.431595, dataset retrieved and appended to csv
+2021-09-13 20:37:25.431613, unique parking bays csv updated
+2021-09-13 20:52:28.231873, dataset retrieved and appended to csv
+2021-09-13 20:52:28.231893, unique parking bays csv updated
+2021-09-13 21:07:30.455822, dataset retrieved and appended to csv
+2021-09-13 21:07:30.455848, unique parking bays csv updated
+2021-09-13 21:22:32.828212, dataset retrieved and appended to csv
+2021-09-13 21:22:32.828230, unique parking bays csv updated
+2021-09-13 21:37:35.195742, dataset retrieved and appended to csv
+2021-09-13 21:37:35.195759, unique parking bays csv updated
+2021-09-13 21:52:37.307543, dataset retrieved and appended to csv
+2021-09-13 21:52:37.307559, unique parking bays csv updated
+2021-09-13 22:07:39.826749, dataset retrieved and appended to csv
+2021-09-13 22:07:39.826772, unique parking bays csv updated
+2021-09-13 22:22:42.573141, dataset retrieved and appended to csv
+2021-09-13 22:22:42.573159, unique parking bays csv updated
+2021-09-13 22:37:45.137124, dataset retrieved and appended to csv
+2021-09-13 22:37:45.137143, unique parking bays csv updated
+2021-09-13 22:52:47.547872, dataset retrieved and appended to csv
+2021-09-13 22:52:47.547891, unique parking bays csv updated
+2021-09-13 23:07:49.860659, dataset retrieved and appended to csv
+2021-09-13 23:07:49.860676, unique parking bays csv updated
+2021-09-13 23:22:52.340698, dataset retrieved and appended to csv
+2021-09-13 23:22:52.340720, unique parking bays csv updated
+2021-09-13 23:37:54.663682, dataset retrieved and appended to csv
+2021-09-13 23:37:54.663705, unique parking bays csv updated
+2021-09-13 23:52:56.877268, dataset retrieved and appended to csv
+2021-09-13 23:52:56.877287, unique parking bays csv updated
+2021-09-14 00:07:58.964358, dataset retrieved and appended to csv
+2021-09-14 00:07:58.964379, unique parking bays csv updated
+2021-09-14 00:23:01.715172, dataset retrieved and appended to csv
+2021-09-14 00:23:01.715196, unique parking bays csv updated
+2021-09-14 00:38:03.846997, dataset retrieved and appended to csv
+2021-09-14 00:38:03.847018, unique parking bays csv updated
+2021-09-14 00:53:05.993521, dataset retrieved and appended to csv
+2021-09-14 00:53:05.993550, unique parking bays csv updated
+2021-09-14 01:08:08.601044, dataset retrieved and appended to csv
+2021-09-14 01:08:08.601061, unique parking bays csv updated
+2021-09-14 01:23:10.812272, dataset retrieved and appended to csv
+2021-09-14 01:23:10.812289, unique parking bays csv updated
+2021-09-14 01:38:12.919426, dataset retrieved and appended to csv
+2021-09-14 01:38:12.919449, unique parking bays csv updated
+2021-09-14 01:53:14.959992, dataset retrieved and appended to csv
+2021-09-14 01:53:14.960012, unique parking bays csv updated
+2021-09-14 02:08:17.208154, dataset retrieved and appended to csv
+2021-09-14 02:08:17.208173, unique parking bays csv updated
+2021-09-14 02:23:19.882980, dataset retrieved and appended to csv
+2021-09-14 02:23:19.883017, unique parking bays csv updated
+2021-09-14 02:38:22.558227, dataset retrieved and appended to csv
+2021-09-14 02:38:22.558246, unique parking bays csv updated
+2021-09-14 02:53:24.825549, dataset retrieved and appended to csv
+2021-09-14 02:53:24.825567, unique parking bays csv updated
+2021-09-14 03:08:27.455036, dataset retrieved and appended to csv
+2021-09-14 03:08:27.455055, unique parking bays csv updated
+2021-09-14 03:23:29.814293, dataset retrieved and appended to csv
+2021-09-14 03:23:29.814312, unique parking bays csv updated
+2021-09-14 03:38:32.173376, dataset retrieved and appended to csv
+2021-09-14 03:38:32.173394, unique parking bays csv updated
+2021-09-14 03:53:34.596063, dataset retrieved and appended to csv
+2021-09-14 03:53:34.596096, unique parking bays csv updated
+2021-09-14 04:08:36.719329, dataset retrieved and appended to csv
+2021-09-14 04:08:36.719346, unique parking bays csv updated
+2021-09-14 04:23:38.781923, dataset retrieved and appended to csv
+2021-09-14 04:23:38.781941, unique parking bays csv updated
+2021-09-14 04:38:41.082248, dataset retrieved and appended to csv
+2021-09-14 04:38:41.082275, unique parking bays csv updated
+2021-09-14 04:53:43.271553, dataset retrieved and appended to csv
+2021-09-14 04:53:43.271572, unique parking bays csv updated
+2021-09-14 05:08:45.539755, dataset retrieved and appended to csv
+2021-09-14 05:08:45.539780, unique parking bays csv updated
+2021-09-14 05:23:48.054942, dataset retrieved and appended to csv
+2021-09-14 05:23:48.054960, unique parking bays csv updated
+2021-09-14 05:38:50.435331, dataset retrieved and appended to csv
+2021-09-14 05:38:50.435349, unique parking bays csv updated
+2021-09-14 05:53:52.722708, dataset retrieved and appended to csv
+2021-09-14 05:53:52.722728, unique parking bays csv updated
+2021-09-14 06:08:54.994950, dataset retrieved and appended to csv
+2021-09-14 06:08:54.994973, unique parking bays csv updated
+2021-09-14 06:23:57.051477, dataset retrieved and appended to csv
+2021-09-14 06:23:57.051494, unique parking bays csv updated
+2021-09-14 06:38:59.173938, dataset retrieved and appended to csv
+2021-09-14 06:38:59.173955, unique parking bays csv updated
+2021-09-14 06:54:01.446921, dataset retrieved and appended to csv
+2021-09-14 06:54:01.446940, unique parking bays csv updated
+2021-09-14 07:09:03.921835, dataset retrieved and appended to csv
+2021-09-14 07:09:03.921854, unique parking bays csv updated
+2021-09-14 07:24:06.528296, dataset retrieved and appended to csv
+2021-09-14 07:24:06.528323, unique parking bays csv updated
+2021-09-14 07:39:08.654334, dataset retrieved and appended to csv
+2021-09-14 07:39:08.654354, unique parking bays csv updated
+2021-09-14 07:54:10.996150, dataset retrieved and appended to csv
+2021-09-14 07:54:10.996170, unique parking bays csv updated
+2021-09-14 08:09:13.294324, dataset retrieved and appended to csv
+2021-09-14 08:09:13.294356, unique parking bays csv updated
+2021-09-14 08:24:15.468179, dataset retrieved and appended to csv
+2021-09-14 08:24:15.468198, unique parking bays csv updated
+2021-09-14 08:39:17.791205, dataset retrieved and appended to csv
+2021-09-14 08:39:17.791224, unique parking bays csv updated
+2021-09-14 08:54:19.997253, dataset retrieved and appended to csv
+2021-09-14 08:54:19.997270, unique parking bays csv updated
+2021-09-14 09:09:22.080998, dataset retrieved and appended to csv
+2021-09-14 09:09:22.081027, unique parking bays csv updated
+2021-09-14 09:24:24.458061, dataset retrieved and appended to csv
+2021-09-14 09:24:24.458080, unique parking bays csv updated
+2021-09-14 09:39:26.853979, dataset retrieved and appended to csv
+2021-09-14 09:39:26.853997, unique parking bays csv updated
+2021-09-14 09:54:28.898541, dataset retrieved and appended to csv
+2021-09-14 09:54:28.898559, unique parking bays csv updated
+2021-09-14 10:09:31.429747, dataset retrieved and appended to csv
+2021-09-14 10:09:31.429777, unique parking bays csv updated
+2021-09-14 10:24:34.063868, dataset retrieved and appended to csv
+2021-09-14 10:24:34.063886, unique parking bays csv updated
+2021-09-14 10:39:35.980598, dataset retrieved and appended to csv
+2021-09-14 10:39:35.980622, unique parking bays csv updated
+2021-09-14 10:54:38.187233, dataset retrieved and appended to csv
+2021-09-14 10:54:38.187253, unique parking bays csv updated
+2021-09-14 11:09:40.417820, dataset retrieved and appended to csv
+2021-09-14 11:09:40.417838, unique parking bays csv updated
+2021-09-14 11:24:42.482265, dataset retrieved and appended to csv
+2021-09-14 11:24:42.482284, unique parking bays csv updated
+2021-09-14 11:39:44.629439, dataset retrieved and appended to csv
+2021-09-14 11:39:44.629457, unique parking bays csv updated
+2021-09-14 11:54:46.940977, dataset retrieved and appended to csv
+2021-09-14 11:54:46.940994, unique parking bays csv updated
+2021-09-14 12:09:49.214785, dataset retrieved and appended to csv
+2021-09-14 12:09:49.214802, unique parking bays csv updated
+2021-09-14 12:24:51.312895, dataset retrieved and appended to csv
+2021-09-14 12:24:51.312915, unique parking bays csv updated
+2021-09-14 12:39:53.416779, dataset retrieved and appended to csv
+2021-09-14 12:39:53.416799, unique parking bays csv updated
+2021-09-14 12:54:55.391830, dataset retrieved and appended to csv
+2021-09-14 12:54:55.391848, unique parking bays csv updated
+2021-09-14 13:09:57.594904, dataset retrieved and appended to csv
+2021-09-14 13:09:57.594923, unique parking bays csv updated
+2021-09-14 13:24:59.780223, dataset retrieved and appended to csv
+2021-09-14 13:24:59.780253, unique parking bays csv updated
+2021-09-14 13:40:01.703885, dataset retrieved and appended to csv
+2021-09-14 13:40:01.703902, unique parking bays csv updated
+2021-09-14 13:55:03.633713, dataset retrieved and appended to csv
+2021-09-14 13:55:03.633733, unique parking bays csv updated
+2021-09-14 14:10:05.581612, dataset retrieved and appended to csv
+2021-09-14 14:10:05.581631, unique parking bays csv updated
+2021-09-14 14:25:07.746270, dataset retrieved and appended to csv
+2021-09-14 14:25:07.746289, unique parking bays csv updated
+2021-09-14 14:40:09.939151, dataset retrieved and appended to csv
+2021-09-14 14:40:09.939171, unique parking bays csv updated
+2021-09-14 14:55:12.148199, dataset retrieved and appended to csv
+2021-09-14 14:55:12.148219, unique parking bays csv updated
+2021-09-14 15:10:14.521174, dataset retrieved and appended to csv
+2021-09-14 15:10:14.521198, unique parking bays csv updated
+2021-09-14 15:25:16.628111, dataset retrieved and appended to csv
+2021-09-14 15:25:16.628130, unique parking bays csv updated
+2021-09-14 15:40:18.701781, dataset retrieved and appended to csv
+2021-09-14 15:40:18.701819, unique parking bays csv updated
+2021-09-14 15:55:21.579145, dataset retrieved and appended to csv
+2021-09-14 15:55:21.579167, unique parking bays csv updated
+2021-09-14 16:10:23.867960, dataset retrieved and appended to csv
+2021-09-14 16:10:23.867979, unique parking bays csv updated
+2021-09-14 16:25:25.941318, dataset retrieved and appended to csv
+2021-09-14 16:25:25.941337, unique parking bays csv updated
+2021-09-14 16:40:28.843295, dataset retrieved and appended to csv
+2021-09-14 16:40:28.843320, unique parking bays csv updated
+2021-09-14 16:55:31.015975, dataset retrieved and appended to csv
+2021-09-14 16:55:31.015992, unique parking bays csv updated
+2021-09-14 17:10:33.119342, dataset retrieved and appended to csv
+2021-09-14 17:10:33.119360, unique parking bays csv updated
+2021-09-14 17:25:35.220249, dataset retrieved and appended to csv
+2021-09-14 17:25:35.220266, unique parking bays csv updated
+2021-09-14 17:40:37.811587, dataset retrieved and appended to csv
+2021-09-14 17:40:37.811605, unique parking bays csv updated
+2021-09-14 17:55:40.071775, dataset retrieved and appended to csv
+2021-09-14 17:55:40.071796, unique parking bays csv updated
+2021-09-14 18:10:42.167854, dataset retrieved and appended to csv
+2021-09-14 18:10:42.167872, unique parking bays csv updated
+2021-09-14 18:25:44.512007, dataset retrieved and appended to csv
+2021-09-14 18:25:44.512025, unique parking bays csv updated
+2021-09-14 18:40:46.722519, dataset retrieved and appended to csv
+2021-09-14 18:40:46.722538, unique parking bays csv updated
+2021-09-14 18:55:48.874467, dataset retrieved and appended to csv
+2021-09-14 18:55:48.874485, unique parking bays csv updated
+2021-09-14 19:10:51.045809, dataset retrieved and appended to csv
+2021-09-14 19:10:51.045832, unique parking bays csv updated
+2021-09-14 19:25:53.552643, dataset retrieved and appended to csv
+2021-09-14 19:25:53.552660, unique parking bays csv updated
+2021-09-14 19:40:55.583739, dataset retrieved and appended to csv
+2021-09-14 19:40:55.583761, unique parking bays csv updated
+2021-09-14 19:55:57.631374, dataset retrieved and appended to csv
+2021-09-14 19:55:57.631392, unique parking bays csv updated
+2021-09-14 20:10:59.637170, dataset retrieved and appended to csv
+2021-09-14 20:10:59.637193, unique parking bays csv updated
+2021-09-14 20:26:02.370711, dataset retrieved and appended to csv
+2021-09-14 20:26:02.370728, unique parking bays csv updated
+2021-09-14 20:41:04.627330, dataset retrieved and appended to csv
+2021-09-14 20:41:04.627350, unique parking bays csv updated
+2021-09-14 20:56:06.847902, dataset retrieved and appended to csv
+2021-09-14 20:56:06.847921, unique parking bays csv updated
+2021-09-14 21:11:09.017862, dataset retrieved and appended to csv
+2021-09-14 21:11:09.017881, unique parking bays csv updated
+2021-09-14 21:26:11.214980, dataset retrieved and appended to csv
+2021-09-14 21:26:11.214999, unique parking bays csv updated
+2021-09-14 21:41:13.470570, dataset retrieved and appended to csv
+2021-09-14 21:41:13.470590, unique parking bays csv updated
+2021-09-14 21:56:15.814188, dataset retrieved and appended to csv
+2021-09-14 21:56:15.814205, unique parking bays csv updated
+2021-09-14 22:11:17.995315, dataset retrieved and appended to csv
+2021-09-14 22:11:17.995333, unique parking bays csv updated
+2021-09-14 22:26:20.397630, dataset retrieved and appended to csv
+2021-09-14 22:26:20.397647, unique parking bays csv updated
+2021-09-14 22:41:22.443518, dataset retrieved and appended to csv
+2021-09-14 22:41:22.443541, unique parking bays csv updated
+2021-09-14 22:56:24.451009, dataset retrieved and appended to csv
+2021-09-14 22:56:24.451028, unique parking bays csv updated
+2021-09-14 23:11:27.875458, dataset retrieved and appended to csv
+2021-09-14 23:11:27.875476, unique parking bays csv updated
+2021-09-14 23:26:30.572469, dataset retrieved and appended to csv
+2021-09-14 23:26:30.572489, unique parking bays csv updated
+2021-09-14 23:41:32.792358, dataset retrieved and appended to csv
+2021-09-14 23:41:32.792375, unique parking bays csv updated
+2021-09-14 23:56:34.959771, dataset retrieved and appended to csv
+2021-09-14 23:56:34.959792, unique parking bays csv updated
+2021-09-15 00:11:37.623230, dataset retrieved and appended to csv
+2021-09-15 00:11:37.623250, unique parking bays csv updated
+2021-09-15 00:26:39.870246, dataset retrieved and appended to csv
+2021-09-15 00:26:39.870271, unique parking bays csv updated
+2021-09-15 00:41:42.173033, dataset retrieved and appended to csv
+2021-09-15 00:41:42.173055, unique parking bays csv updated
+2021-09-15 00:56:44.663435, dataset retrieved and appended to csv
+2021-09-15 00:56:44.663455, unique parking bays csv updated
+2021-09-15 01:11:46.633575, dataset retrieved and appended to csv
+2021-09-15 01:11:46.633593, unique parking bays csv updated
+2021-09-15 01:26:48.233348, dataset retrieved and appended to csv
+2021-09-15 01:26:48.233364, unique parking bays csv updated
+2021-09-15 01:41:50.204831, dataset retrieved and appended to csv
+2021-09-15 01:41:50.204848, unique parking bays csv updated
+2021-09-15 01:56:51.736798, dataset retrieved and appended to csv
+2021-09-15 01:56:51.736816, unique parking bays csv updated
+2021-09-16 21:04:48.488352, dataset retrieved and appended to csv
+2021-09-16 21:04:48.488376, unique parking bays csv updated
