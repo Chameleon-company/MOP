@@ -13,7 +13,6 @@
 
 # Open Data API
 
-![image](images/opendata.png)
 
 **Author**: oscar <br>
 **Deakin University** <br>
@@ -106,8 +105,7 @@ $python api.py -filter 2 -n vh2v-4nfs -limit 20
 
 ## Further Studying 
 
-Advance analysis metadata by DeepNN. (Mirriam)
-![](images/nn_input.png)
+
 
 
 
