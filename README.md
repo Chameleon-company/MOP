@@ -1,3 +1,12 @@
+
+
+# Task TO DO
+- Reformatting Github Homepage
+- Upload Jupyter Notebook using in our product portal
+- Delete unnecessary files 
+- Keep folder clean 
+- Naming folder appropriately
+
 **Melbourne Open Data**
 =========================
 
