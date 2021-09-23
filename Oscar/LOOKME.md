@@ -9,12 +9,13 @@
     - [Download Repository](#download-repository)
     - [Parameters Describe](#parameters-describe)
   - [How to obtain APP Token](#how-to-obtain-app-token)
+  - [Further Studying](#further-studying)
 
 # Open Data API
 
 ![image](images/opendata.png)
 
-**Author**: 𐐎 <br>
+**Author**: oscar <br>
 **Deakin University** <br>
 **Client**: [**City of Melbourne**](https://data.melbourne.vic.gov.au/) <br>
 
@@ -23,7 +24,7 @@ There are lost of datasets in open data platform in
 
 This program help my team member to inspect datasets and download dataset easily. 
 
-For example, my team member "Mirriam". Even she has advance IT skills and she also feel confusion by inspecting dataset. Lots of information of each dataset storing in **Metadata** format, see example of "Pay Stay zones linked to street segments" as below:
+For example, some developers have advance IT skills and  also feel confusion by inspecting dataset. Lots of information of each dataset storing in **Metadata** format, see example of "Pay Stay zones linked to street segments" as below:
 
 **Metadata**
 - name : Pay Stay zones linked to street segments
@@ -101,6 +102,12 @@ $python api.py -filter 2 -n vh2v-4nfs -limit 20
 
 ## How to obtain APP Token
 
+
+
+## Further Studying 
+
+Advance analysis metadata by DeepNN. (Mirriam)
+![](images/nn_input.png)
 
 
 
