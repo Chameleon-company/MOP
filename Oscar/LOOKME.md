@@ -5,16 +5,11 @@
   - [Function](#function)
   - [Output](#output)
   - [Environment and Package Dependency](#environment-and-package-dependency)
-  - [Tutorial](#tutorial)
-    - [Download Repository](#download-repository)
-    - [Parameters Describe](#parameters-describe)
-  - [How to obtain APP Token](#how-to-obtain-app-token)
-  - [Further Studying](#further-studying)
 
 # Open Data API
 
 
-**Author**: oscar <br>
+**Author**: Oscar <br>
 **Deakin University** <br>
 **Client**: [**City of Melbourne**](https://data.melbourne.vic.gov.au/) <br>
 
@@ -41,7 +36,7 @@ For example, some developers have advance IT skills and  also feel confusion by 
 - **etc**
 
 
-![image](images/metaformat.png)
+![image](Api_images/metaformat.png)
 
 
 ## Function
@@ -57,15 +52,15 @@ For example, some developers have advance IT skills and  also feel confusion by 
 ```
 $python api.py -filter 0 -limit 20
 ```
-![image](images/outpu1.png)
+![image](Api_images/outpu1.png)
 
 
-- filter 1: search dataset
+- filter 1: serch dtset
 
 ```
 $python api.py -filter 1 -n "tree parking street"
 ```
-![image](images/output2.png)
+![image](Api_images/output2.png)
 
 
 - filter 2: download dataset
@@ -73,7 +68,7 @@ $python api.py -filter 1 -n "tree parking street"
 ```
 $python api.py -filter 2 -n vh2v-4nfs -limit 20
 ```
-![image](images/output3.png)
+![image](Api_images/output3.png)
 
 ***
 ## Environment and Package Dependency 
@@ -85,25 +80,6 @@ $python api.py -filter 2 -n vh2v-4nfs -limit 20
 - pandas
 - argparse
 ***
-## Tutorial
-
-***
-### Download Repository
-
-
-***
-### Parameters Describe
-
-
-
-
-
-
-## How to obtain APP Token
-
-
-
-## Further Studying 
 
 
 
