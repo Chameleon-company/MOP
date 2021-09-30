@@ -1,22 +1,13 @@
 
 
-# Task TO DO
-- Reformatting Github Homepage
-- Upload Jupyter Notebook using in our product portal
-- Delete unnecessary files 
-- Keep folder clean 
-- Naming folder appropriately
-
 **Melbourne Open Data**
 =========================
 
-__Author__: Oscar
+__Author__: Oscar, Mirriam, Neet, Jason, Josh, Albert
 
 __Deakin University__ 
 
 __T2/2021__
-
-.
 
 
 
@@ -32,15 +23,9 @@ We would love to see how you’re using our data.
 
 * [App Token](https://dev.socrata.com/docs/app-tokens.html) (Optional)
 
-* Package Need: `$1, $2, $3`
 
-* Perquisite knowledge: `add something...`
-* `Add more desciption (oscar)`  
+
   
-
-
-
-
 
 ---
 
@@ -90,10 +75,9 @@ In the diagram below, we have assigned Matplotlib visualizations to different ca
 
 ## 1. Reading dataset
 
-`Oscar has worked up here:`
 
->replace this section with new function. 
-Showing summary table of 222 datasets
+
+Showing summary table of 222 datasets (By Sodapy)
 
 
 
@@ -109,22 +93,18 @@ Showing summary table of 222 datasets
     )
 ```
 
-* [Click here]() to see how to apply **App Token**
-* [Click here]() to see how to use our function to get summaized overview dataset
-* [Clcik here]() ....
-* ....
-* ....
+
 
 
 ---
 ## 2. Manipulation
 
-* [Click here] to see [example code](example.ipynb) for **Data Description**.
+* [Click here] to see [example code](Jason/UsingSodapyandBuildingETL.ipynb) for **Data Description**.
 
 
 ---
 
-![image](images/merge.png)
+![image](images/demo.png)
 
 `Mirriam is working here`
 
@@ -136,7 +116,7 @@ Do not merge your code into **example.ipynb** file)
 
 ## 3. Analysis  
 
-* [Click here](EDA.ipynb) to see example code for **EDA**
+* [Click here](Jason/UsingSodapyandBuildingETL.ipynb) to see example code for **EDA**
 
 `Mirriam is working here`
 
@@ -153,6 +133,6 @@ Disability:For bays that aren't limited to disabled permits, how much time (minu
 
 The screenshot below:
 
-![image](images/geo_map.png)
+![image](Miriam/images/geo.PNG)
 
 
