@@ -1,21 +1,22 @@
 
 
-**Melbourne Open Data**
-=========================
-
-__Author__: Oscar, Mirriam, Neet, Jason, Josh, Albert
+**Melbourne Open Data Playground**
+==================================
 
 __Deakin University__ 
 
-__T2/2021__
+__T3/2021__
 
 
 
 ----
 # About Melbourne Data
 
-Welcome to Melbourne Data - the City of Melbourne’s open data platform, where you can access and use a wide variety of publicly accessible council data. By publishing this data, we aim to increase transparency, improve public services and support new economic and social initiatives.
-We would love to see how you’re using our data.
+Welcome to the Melbourne Open Data Playground GitHub community page.
+
+In this repository you can access a wide variety of example Jupyter notebooks that let you explore, visualise and analyse Open Data published by the City of Melbourne.
+
+By publishing these notebooks, we aim to increase adoption and use of City of Melbourne Open Data to support the business, research and development community. 
 
 * Example Dataset: [On-street Parking Bay Sensors](https://data.melbourne.vic.gov.au/Transport/On-street-Parking-Bay-Sensors/vh2v-4nfs) 
 
