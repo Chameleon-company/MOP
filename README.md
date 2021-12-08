@@ -1,4 +1,4 @@
-
+![Image](/images/mop-black.png)
 
 **Melbourne Open Data Playground**
 ==================================
@@ -85,7 +85,7 @@ Showing summary table of 222 datasets (By Sodapy)
 ---
 ## 2. Manipulation
 
-* [Click here] to see [example code](T2 2021/Jason/UsingSodapyandBuildingETL.ipynb) for **Data Description**.
+* [Click here] to see [example code](/T2 2021/Jason/UsingSodapyandBuildingETL.ipynb) for **Data Description**.
 
 
 ---
@@ -102,7 +102,7 @@ Do not merge your code into **example.ipynb** file)
 
 ## 3. Analysis  
 
-* [Click here](T2 2021/Jason/UsingSodapyandBuildingETL.ipynb) to see example code for **EDA**
+* [Click here](/T2 2021/Jason/UsingSodapyandBuildingETL.ipynb) to see example code for **EDA**
 
 Open the link ["Geo_Map.html"](Geo_Map.html) with your browser to check the parking status. 
 
@@ -117,6 +117,6 @@ Disability:For bays that aren't limited to disabled permits, how much time (minu
 
 The screenshot below:
 
-![image](T2 2021/Miriam/images/geo.PNG)
+![image](/images/geo.PNG)
 
 
