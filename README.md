@@ -1,4 +1,4 @@
-![Image](/images/mop-black.png)
+<img src="/images/mop-black.png" alt="drawing" width="100"/>
 
 **Melbourne Open Data Playground**
 ==================================
