@@ -3,14 +3,9 @@
 **Melbourne Open Data Playground**
 ==================================
 
-__Deakin University__ 
+An initiative and partnership between __Deakin University__ and the City of Melbourne.
 
-__T3/2021__
-
-
-
-----
-# About Melbourne Data
+# About
 
 Welcome to the Melbourne Open Data Playground GitHub community page.
 
@@ -18,20 +13,10 @@ In this repository you can access a wide variety of example Jupyter notebooks th
 
 By publishing these notebooks, we aim to increase adoption and use of City of Melbourne Open Data to support the business, research and development community. 
 
-* Example Dataset: [On-street Parking Bay Sensors](https://data.melbourne.vic.gov.au/Transport/On-street-Parking-Bay-Sensors/vh2v-4nfs) 
-
-* Machine Language: Python
-
-* [App Token](https://dev.socrata.com/docs/app-tokens.html) (Optional)
-
-
-
-  
-
 ---
 
 
-Summary Table for Open Data
+Summary of Open Datasets
 =====
 
 
@@ -51,7 +36,7 @@ Municipal boundary|ck33-yh8z|2020-02-24T02:10:15.000Z|2014-06-26T06:11:47.000Z|5
 
 ---
 
-Knowledge Refreshing: 
+Data Science 101
 =======================
 
 According to __Codecademy__, we give some description:
@@ -100,12 +85,12 @@ Showing summary table of 222 datasets (By Sodapy)
 ---
 ## 2. Manipulation
 
-* [Click here] to see [example code](Jason/UsingSodapyandBuildingETL.ipynb) for **Data Description**.
+* [Click here] to see [example code](T2 2021/Jason/UsingSodapyandBuildingETL.ipynb) for **Data Description**.
 
 
 ---
 
-![image](images/demo.png)
+![image](T2 2021/images/demo.png)
 
 `Mirriam is working here`
 
@@ -117,9 +102,7 @@ Do not merge your code into **example.ipynb** file)
 
 ## 3. Analysis  
 
-* [Click here](Jason/UsingSodapyandBuildingETL.ipynb) to see example code for **EDA**
-
-`Mirriam is working here`
+* [Click here](T2 2021/Jason/UsingSodapyandBuildingETL.ipynb) to see example code for **EDA**
 
 Open the link ["Geo_Map.html"](Geo_Map.html) with your browser to check the parking status. 
 
@@ -134,6 +117,6 @@ Disability:For bays that aren't limited to disabled permits, how much time (minu
 
 The screenshot below:
 
-![image](Miriam/images/geo.PNG)
+![image](T2 2021/Miriam/images/geo.PNG)
 
 
