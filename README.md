@@ -85,12 +85,12 @@ Showing summary table of 222 datasets (By Sodapy)
 ---
 ## 2. Manipulation
 
-* [Click here] to see [example code](/T2 2021/Jason/UsingSodapyandBuildingETL.ipynb) for **Data Description**.
+* [Click here] to see [example code](/T2_2021/Jason/UsingSodapyandBuildingETL.ipynb) for **Data Description**.
 
 
 ---
 
-![image](T2 2021/images/demo.png)
+![image](/images/demo.png)
 
 `Mirriam is working here`
 
@@ -102,9 +102,9 @@ Do not merge your code into **example.ipynb** file)
 
 ## 3. Analysis  
 
-* [Click here](/T2 2021/Jason/UsingSodapyandBuildingETL.ipynb) to see example code for **EDA**
+* [Click here](/T2_2021/Jason/UsingSodapyandBuildingETL.ipynb) to see example code for **EDA**
 
-Open the link ["Geo_Map.html"](Geo_Map.html) with your browser to check the parking status. 
+Open the link ["Geo_Map.html"](/T2_2021/Miriam/images/Geo_Map.html) with your browser to check the parking status. 
 
 Different colored icons are used to distinguish the availability of parking Spaces.Red means the parking space is occupied, and blue means the parking space is available. 
 
