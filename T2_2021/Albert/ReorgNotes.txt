@@ -1,8 +1,0 @@
-NOTES ON REORGANISATION OF GITHUB FOLDER STRUCTURE
-Author: Steven Tuften
-Date: 8th Dec 2021
-
-1) Moved all Individual Named folders plus images folder under "T2 2021"
-
-2) Copy everything under "/datascience" from BitBucket to GitHub and rename "example_notebooks"
-
