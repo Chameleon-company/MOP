@@ -1,2 +1,0 @@
-1) Moved all Individual Named folders plus images folder under "T2 2021"
-2) Removed <feross@feross.org> email address from "/T2 2021/Albert/Check_parking_sensors_within_a_polygon.ipynb"
