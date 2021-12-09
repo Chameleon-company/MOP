@@ -21,9 +21,9 @@ To setup a new environment with Conda follow these steps:
 
 4) Run the following commands:
 
-&emsp;&gt;cd {directory containing the environment.yml file}
+ &gt;cd {directory containing the environment.yml file}
 
-&emsp;&gt;conda env create -f environment.yml
+ &gt;conda env create -f environment.yml
 
 5) In Anaconda install JupyterNotebook
 
@@ -34,33 +34,47 @@ To remove the environment repeat steps 1 through 3 above then run the following 
 &gt;conda env remove -n MelbourneCityOpenData
 
 ### Environment Packages
-The following packages make up the MelbourneCityOpenData environment.
+The following packages make up the MelbourneCityOpenData data science environment.<br>
+Many of these packages are also used in the Melbourne Open Data Playground website.
 
 #### CORE
-**requests**&emsp;&emsp;HTTP Library<br>
+**requests**<br>
+A common library for managing HTTP requests.<br>
 
 #### DATA ENGINEERING
-**numpy**&emsp;&emsp;Array computation<br>
-**pandas**&emsp;&emsp;Data structures for data analysis, time series, and statistics<br>
+**numpy**<br>
+Numpy is a library designed for efficient array computation.<br>
+**pandas**<br>
+Data structures for data analysis, time series, and statistics.<br>
 
 #### DATA SCIENCE/ML
-**scikit-learn**&emsp;&emsp;Machine/Statitical learning<br>
+**scikit-learn**<br>
+Sci-kit Learn is a popular Machine/Statitical learning package.<br>
 
 #### VISUALISATION AND IMAGE PROCESSING
-**matplotlib**&emsp;&emsp;Plotting Library for static, animated, and interactive visualizations<br>
-**seaborn**&emsp;&emsp;Extends MatPlotlib with more sophisticated plot types<br>
-**plotly**&emsp;&emsp;Create interactive graphs in Jupyter notebook<br>
+**matplotlib**<br>
+MatplotLib is a plotting Library for static, animated, and interactive visualizations.<br>
+**seaborn**<br>
+Seaborn extends MatPlotlib with more sophisticated plot types.<br>
+**plotly**<br>
+Plotly allows the creation of interactive graphs, plots and maps.<br>
 
 #### OPEN DATA
-**sodapy**&emsp;&emsp;python interface to SOCRATA API<br>
+**sodapy**<br>
+Sodapy is a Python interface to the SOCRATA API for accessing Open Data.<br>
 
 #### GEOSPATIAL
-**pyproj**&emsp;&emsp;interface to PROJ (cartographic projections and coordinate transformations library)<br>
-**shapely**&emsp;&emsp;Manipulation and analysis of geometric objects in the Cartesian plane.<br>
-**geopandas**&emsp;&emsp;Extends the datatypes used by Pandas to allow spatial operations on geometric types.<br>
-&emsp;&emsp;&emsp;Geometric operations are performed by shapely.<br>
-&emsp;&emsp;&emsp;Geopandas further depends on fiona for file access and matplotlib for plotting.<br>
-**geopy**&emsp;&emsp;Python client for several popular geocoding web services.<br>
-&emsp;&emsp;&emsp;geopy includes geocoder classes for the OpenStreetMap Nominatim, Google Geocoding API (V3), and many other geocoding services.
-<dd>**folium**</dd><dt>makes it easy to visualize data that’s been manipulated in Python on an interactive leaflet map. It enables both the binding of data to a map for choropleth visualizations as well as passing rich vector/raster/HTML visualizations as markers on the map.<br>
-The library has a number of built-in tilesets from OpenStreetMap, Mapbox, and Stamen, and supports custom tilesets with Mapbox or Cloudmade API keys. folium supports both Image, Video, GeoJSON and TopoJSON overlays.<br></dt>
+**pyproj**<br>
+An interface to PROJ (cartographic projections and coordinate transformations library).<br>
+**shapely**<br>
+Shapely supports manipulation and analysis of geometric objects in the Cartesian plane.<br>
+**geopandas**<br>
+Geopandas extends the datatypes used by Pandas to allow spatial operations on geometric types.<br>
+Geometric operations are performed by shapely.<br>
+Geopandas further depends on fiona for file access and matplotlib for plotting.<br>
+**geopy**<br>
+A Python client for several popular geocoding web services.<br>
+Geopy includes geocoder classes for the OpenStreetMap Nominatim, Google Geocoding API (V3), and many other geocoding services.
+**folium**<br>
+Folium makes it easy to visualize data that’s been manipulated in Python on an interactive leaflet map. It enables both the binding of data to a map for choropleth visualizations as well as passing rich vector/raster/HTML visualizations as markers on the map.<br>
+The library has a number of built-in tilesets from OpenStreetMap, Mapbox, and Stamen, and supports custom tilesets with Mapbox or Cloudmade API keys. folium supports both Image, Video, GeoJSON and TopoJSON overlays.<br>
