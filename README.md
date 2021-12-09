@@ -3,13 +3,24 @@
 **Melbourne Open Data Playground**
 ==================================
 
-An initiative and partnership between __Deakin University__ and the City of Melbourne.
+An initiative of the [Deakin University Industry Student Capstone (DISC) Program](https://www.discprojects.com/) for the [City of Melbourne](https://data.melbourne.vic.gov.au/).
 
 # About
 
 Welcome to the Melbourne Open Data Playground GitHub community page.
 
-In this repository you can access a wide variety of example Jupyter notebooks that let you explore, visualise and analyse Open Data published by the City of Melbourne.
+Melbourne Open Data Playground (MOP) is a capstone project sponsored by Deakin University.
+
+Since Covid there is more demand for data by the business community to support their decision making. This project is meant to align to two strategic documents from Melbourne City Council:
+
+- **The Economic Development Strategy to be a digitally-connected city.**
+- **The 2021-2025 Council Plan which outlines the specific objective of delivering programs that will build digital literacy skills and capabilities.**
+
+The City of Melbourne is an Australian leader in Open Data since 2014. The latest research and local user engagement has identified a gap where users would like to learn more abut how to access the Open Data and how to gain insights from the data to build apps and solve city problems.
+
+This project aims to deliver proof-of -concept examples on how calls to Open Data API can be made to deliver a variety of solutions.
+
+In this GitHub repository you can access a wide variety of example Jupyter notebooks that let you explore, visualise and analyse Open Data published by the City of Melbourne.
 
 By publishing these notebooks, we aim to increase adoption and use of City of Melbourne Open Data to support the business, research and development community. 
 
