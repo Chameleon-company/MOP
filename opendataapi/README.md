@@ -35,7 +35,7 @@ For example, some developers have advance IT skills and also feel confusion by i
 - **etc**
 
 
-![image](/API_images/metaformat.png)
+![image](API_images/metaformat.png)
 
 
 ## Function
@@ -51,7 +51,7 @@ For example, some developers have advance IT skills and also feel confusion by i
 ```
 $python api.py -filter 0 -limit 20
 ```
-![image](/API_images/outpu1.png)
+![image](API_images/outpu1.png)
 
 
 - filter 1: serch dtset
@@ -59,7 +59,7 @@ $python api.py -filter 0 -limit 20
 ```
 $python api.py -filter 1 -n "tree parking street"
 ```
-![image](/API_images/output2.png)
+![image](API_images/output2.png)
 
 
 - filter 2: download dataset
@@ -67,7 +67,7 @@ $python api.py -filter 1 -n "tree parking street"
 ```
 $python api.py -filter 2 -n vh2v-4nfs -limit 20
 ```
-![image](/API_images/output3.png)
+![image](API_images/output3.png)
 
 ***
 ## Environment and Package Dependency 
