@@ -62,5 +62,5 @@ The following packages make up the MelbourneCityOpenData environment.
 &emsp;&emsp;&emsp;Geopandas further depends on fiona for file access and matplotlib for plotting.<br>
 **geopy**&emsp;&emsp;Python client for several popular geocoding web services.<br>
 &emsp;&emsp;&emsp;geopy includes geocoder classes for the OpenStreetMap Nominatim, Google Geocoding API (V3), and many other geocoding services.
-**folium**&emsp;&emsp;makes it easy to visualize data that’s been manipulated in Python on an interactive leaflet map. It enables both the binding of data to a map for choropleth visualizations as well as passing rich vector/raster/HTML visualizations as markers on the map.<br>
-&emsp;&emsp;&emsp;The library has a number of built-in tilesets from OpenStreetMap, Mapbox, and Stamen, and supports custom tilesets with Mapbox or Cloudmade API keys. folium supports both Image, Video, GeoJSON and TopoJSON overlays.<br>
+<div style="padding-left: 64px; text-indent: -60px;">**folium**&emsp;&emsp;makes it easy to visualize data that’s been manipulated in Python on an interactive leaflet map. It enables both the binding of data to a map for choropleth visualizations as well as passing rich vector/raster/HTML visualizations as markers on the map.<br>
+&emsp;&emsp;&emsp;The library has a number of built-in tilesets from OpenStreetMap, Mapbox, and Stamen, and supports custom tilesets with Mapbox or Cloudmade API keys. folium supports both Image, Video, GeoJSON and TopoJSON overlays.<br></div>
