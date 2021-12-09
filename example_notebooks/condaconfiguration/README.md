@@ -21,9 +21,9 @@ To setup a new environment with Conda follow these steps:
 
 4) Run the following commands:
 
- &gt;cd {directory containing the environment.yml file}
+&emsp;&emsp;&gt;cd {directory containing the environment.yml file}
 
- &gt;conda env create -f environment.yml
+&emsp;&emsp;&gt;conda env create -f environment.yml
 
 5) In Anaconda install JupyterNotebook
 
@@ -31,7 +31,7 @@ To setup a new environment with Conda follow these steps:
 ### Removing thee environment
 To remove the environment repeat steps 1 through 3 above then run the following command
 
-&gt;conda env remove -n MelbourneCityOpenData
+&emsp;&emsp;&gt;conda env remove -n MelbourneCityOpenData
 
 ### Environment Packages
 The following packages make up the MelbourneCityOpenData data science environment.<br>
