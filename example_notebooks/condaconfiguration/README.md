@@ -1,16 +1,16 @@
 <img src="/images/mop-black.png" alt="drawing" width="100"/>
 
 # Melbourne Open Data Playground
-## SETTING UP "MelbourneCityOpenData" CONDA ENVIRONMENT
-## FOR USE WITH Anaconda and Jupyter Notebook
+## SETTING UP A CONDA ENVIRONMENT IN ANACONDA
 
-Last Updated: 10-Nov-2021
+**Last Updated: 10-Nov-2021**
 
 ### Installing the environment
-*Pre-requisites:
+#### Pre-requisites
 - Anaconda installed on Windows Environment
 - [Copy this conda environment configuration file](environment.yml) to a local directory*
 
+#### Installation steps
 To setup a new environment with Conda follow these steps:
 
 1) Launch Anaconda
@@ -21,9 +21,9 @@ To setup a new environment with Conda follow these steps:
 
 4) Run the following commands:
 
-cd {directory containing the environment.yml file}
+&emsp;&gt;cd {directory containing the environment.yml file}
 
-conda env create -f environment.yml
+&emsp;&gt;conda env create -f environment.yml
 
 5) In Anaconda install JupyterNotebook
 
@@ -37,7 +37,7 @@ To remove the environment repeat steps 1 through 3 above then run the following 
 The following packages make up the MelbourneCityOpenData environment.
 
 #### CORE
-requests	# HTTP Library
+requests&emsp;**HTTP Library**
 
 #### DATA ENGINEERING
 numpy		# Array computation
