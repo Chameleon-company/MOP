@@ -27,39 +27,27 @@ By publishing these notebooks, we aim to increase adoption and use of City of Me
 ---
 
 
-Summary of Open Datasets
+What is in this repository?
 =====
-
-
-
-| Name  | id |  updatead_At  |createAt |downloadCount |
-| :---        |    :----:   |          ---: |       ---: |       ---: |
-Postcodes|m7yp-p495|2020-02-25T02:19:56.000Z|2014-06-26T06:28:18.000Z|13530346
-On-street Parking Bay Sensors|vh2v-4nfs|2021-08-05T03:25:30.000Z|2017-08-10T04:57:59.000Z|12074388
-Street names|2x56-ai8r|2021-08-04T16:45:52.000Z|2015-04-14T04:36:39.000Z|9808179
-Small Areas for Census of Land Use and Employment (CLUE)|gei8-3w86|2020-02-24T02:09:59.000Z|2014-05-02T08:02:19.000Z|7362378
-Road corridors|9mdh-8yau|2021-08-04T16:43:58.000Z|2014-06-26T06:31:25.000Z|7206912
-City Circle tram stops|dh3m-ckxm|2020-04-05T21:42:05.000Z|2014-06-26T05:24:08.000Z|6644363
-Former lakes and wetlands in Melbourne|n6sz-6nb6|2020-02-24T02:10:11.000Z|2014-07-09T05:04:14.000Z|5564262
-Soil textures at various depths|svux-bada|2020-02-24T02:10:26.000Z|2014-07-09T05:06:20.000Z|5415168
-Garbage collection zones|dmpt-2xdw|2021-08-04T16:39:19.000Z|2015-09-23T23:16:36.000Z|5049596
-Municipal boundary|ck33-yh8z|2020-02-24T02:10:15.000Z|2014-06-26T06:11:47.000Z|5013334
 
 ---
 
-Data Science 101
+How do I start analysing Open Data?
 =======================
 
-According to __Codecademy__, we give some description:
+The first step in analysisng open data is to clearly define the question you are aiming to answer or the problem you are trying to solve.
 
-During your brainstorming phase, you should consider two things:
+Data Analysts can often begin with a brainstorming session with relevant stakeholders.
+Two important consideration in this phase are:
 
-1. The focusing question you want to answer with your chart.
-2. The type of data that you want to visualize
+1. Focusing question you want to answer.
+2. Defining the type of data you think you will need to answer that question.
+3. Determining the best type of visualisation to communicate your insights
    
-Depending on the focusing questions you’re trying to answer, the type of chart you select should be different and intentional in its difference. 
+Depending on the question you’re trying to answer, the type of visualisation may will need may differ.
 
-In the diagram below, we have assigned Matplotlib visualizations to different categories. These categories explore common focusing questions and types of data you may want to display in a visualization:
+In the diagram below, we have shown different visualizations for different categories of problems.
+These categories explore common questions and types of data you may want to display in a visualization.
 
 ![Image](https://content.codecademy.com/programs/dataviz-python/unit-3/pickachart.svg?sanitize=true)
 
