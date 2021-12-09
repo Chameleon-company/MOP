@@ -85,7 +85,7 @@ Showing summary table of 222 datasets (By Sodapy)
 ---
 ## 2. Manipulation
 
-* [Click here to see example code](/example_notebooks/techniques/UsingSodapyandBuildingETL.ipynb) for **Data Description**.
+* [Click here to see example code](/example_notebooks/tutorials/001-UsingSodapyandBuildingETL.ipynb) for **Data Description**.
 
 
 ---
@@ -101,7 +101,7 @@ Do not merge your code into **example.ipynb** file)
 
 ## 3. Analysis  
 
-* [Click here](/example_notebooks/techniques/UsingSodapyandBuildingETL.ipynb) to see example code for **EDA**
+* [Click here](/example_notebooks/tutorials/001-UsingSodapyandBuildingETL.ipynb) to see example code for **EDA**
 
 Open the link ["Geo_Map.html"](/images/Geo_Map.html) with your browser to check the parking status. 
 
