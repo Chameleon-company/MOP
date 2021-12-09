@@ -7,4 +7,4 @@ Last Updated: 9-Dec-2021
 
 This folder contains example Jupyter notebooks illustrating different techniques, useful tips and tutorials for accessing, analysising & visualising City of Melbourne Open Data:
 - [Tutorial | Accessing Melbourne Open Data and building a simple data transformation(ETL)](001-UsingSodapyandBuildingETL.ipynb)
-
+- [Techniques | Analysing Open Data Metadata using NLP Techniques](002-metadata-analysis_using_nlp.ipynb)

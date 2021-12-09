@@ -33,7 +33,7 @@ What is in this repository?
 
 This repository contains :
 - [Example Jupyter Notebooks](example_notebooks/)
-
+- [Open Data API (a command line python program for open data retrieval)](opendataapi/)
 
 ---
 
