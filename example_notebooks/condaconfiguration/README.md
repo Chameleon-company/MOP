@@ -3,7 +3,7 @@
 # Melbourne Open Data Playground
 ## SETTING UP A CONDA ENVIRONMENT IN ANACONDA
 
-Last Updated: 10-Nov-2021
+Last Updated: 9-Dec-2021
 
 ### Installing the environment
 #### Pre-requisites
