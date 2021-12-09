@@ -8,7 +8,7 @@
 ### Installing the environment
 #### Pre-requisites
 - Anaconda installed on Windows Environment
-- [Copy this conda environment configuration file](environment.yml) to a local directory*
+- [Copy this conda environment configuration file](environment.yml) to a local directory
 
 #### Installation steps
 To setup a new environment with Conda follow these steps:
@@ -37,29 +37,29 @@ To remove the environment repeat steps 1 through 3 above then run the following 
 The following packages make up the MelbourneCityOpenData environment.
 
 #### CORE
-requests&emsp;**HTTP Library**
+requests&emsp;&emsp;**HTTP Library**
 
 #### DATA ENGINEERING
-numpy		# Array computation
-pandas		# Data structures for data analysis, time series, and statistics
+numpy&emsp;&emsp;**Array computation**
+pandas&emsp;&emsp;**Data structures for data analysis, time series, and statistics**
 
 #### DATA SCIENCE/ML
-scikit-learn	# Machine/Statitical learning
+scikit-learn&emsp;&emsp;**Machine/Statitical learning**
 
 #### VISUALISATION AND IMAGE PROCESSING
-matplotlib	# Plotting Library for static, animated, and interactive visualizations
-seaborn		# Extends MatPlotlib with more sophisticated plot types
-plotly		# Create interactive graphs in Jupyter notebook
+matplotlib&emsp;&emsp;**Plotting Library for static, animated, and interactive visualizations**
+seaborn&emsp;&emsp;**Extends MatPlotlib with more sophisticated plot types**
+plotly&emsp;&emsp;**Create interactive graphs in Jupyter notebook**
 
 #### OPEN DATA
-sodapy		# python interface to SOCRATA API
+sodapy&emsp;&emsp;**python interface to SOCRATA API**
 
 #### GEOSPATIAL
-pyproj		# interface to PROJ (cartographic projections and coordinate transformations library)
-shapely		# Manipulation and analysis of geometric objects in the Cartesian plane.
-geopandas	# Extends the datatypes used by Pandas to allow spatial operations on geometric types.
-		# Geometric operations are performed by shapely.
-		# Geopandas further depends on fiona for file access and matplotlib for plotting.
-geopy		# Python client for several popular geocoding web services.
-		# geopy includes geocoder classes for the OpenStreetMap Nominatim, Google Geocoding API (V3), and many other geocoding services.
-folium		# folium makes it easy to visualize data that
+pyproj&emsp;&emsp;**interface to PROJ (cartographic projections and coordinate transformations library)**
+shapely&emsp;&emsp;**Manipulation and analysis of geometric objects in the Cartesian plane.**
+geopandas&emsp;&emsp;**Extends the datatypes used by Pandas to allow spatial operations on geometric types.**
+&emsp;&emsp;&emsp;**Geometric operations are performed by shapely.**
+&emsp;&emsp;&emsp;**Geopandas further depends on fiona for file access and matplotlib for plotting.**
+geopy&emsp;&emsp;**Python client for several popular geocoding web services.**
+&emsp;&emsp;&emsp;**geopy includes geocoder classes for the OpenStreetMap Nominatim, Google Geocoding API (V3), and many other geocoding services.**
+folium&emsp;&emsp;**makes it easy to visualize data that’s been manipulated in Python on an interactive leaflet map. It enables both the binding of data to a map for choropleth visualizations as well as passing rich vector/raster/HTML visualizations as markers on the map. The library has a number of built-in tilesets from OpenStreetMap, Mapbox, and Stamen, and supports custom tilesets with Mapbox or Cloudmade API keys. folium supports both Image, Video, GeoJSON and TopoJSON overlays.**
