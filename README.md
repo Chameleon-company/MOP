@@ -38,13 +38,13 @@ How do I start analysing Open Data?
 The first step in analysisng open data is to clearly define the question you are aiming to answer or the problem you are trying to solve.
 
 Data Analysts can often begin with a brainstorming session with relevant stakeholders.
-Two important consideration in this phase are:
+In this activity you should aim to answer the following:
 
-1. Focusing question you want to answer.
-2. Defining the type of data you think you will need to answer that question.
-3. Determining the best type of visualisation to communicate your insights
+1. What is the question you want to answer or hypothesis you wish to test.
+2. What type of data do you think you will need.
+3. How will you communicate your results or insights ie. what type of visualisation do you wish to use.
    
-Depending on the question you’re trying to answer, the type of visualisation may will need may differ.
+The type of visualisation will depend on the question you’re trying to answer and the nature of the data used.
 
 In the diagram below, we have shown different visualizations for different categories of problems.
 These categories explore common questions and types of data you may want to display in a visualization.
