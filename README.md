@@ -30,6 +30,10 @@ By publishing these notebooks, we aim to increase adoption and use of City of Me
 What is in this repository?
 =====
 
+This repository contains :
+- [Example Jupyter Notebooks](example_notebooks/)
+
+
 ---
 
 How do I start analysing Open Data?
