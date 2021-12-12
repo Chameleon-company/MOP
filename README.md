@@ -12,7 +12,7 @@ Welcome to the Melbourne Open Data Playground GitHub community page.
 
 Melbourne Open Data Playground (MOP) is a capstone project sponsored by Deakin University.
 
-Since Covid there has been greater demand for data by the business community to support their decision making. This project is designed to  to align with and support two strategic imperitives from City of Melbourne Council being:
+Since Covid there has been greater demand for data by the business community to support their decision making. This project is designed to align with and support two strategic imperitives from City of Melbourne Council being:
 
 - **The Economic Development Strategy to be a digitally-connected city, and**
 - **The 2021-2025 Council Plan which outlines the specific objective of delivering programs that will build digital literacy skills and capabilities.**
@@ -54,11 +54,11 @@ Note: This team is active and monitoring this repository primarily during [Deaki
 How can I contribute to this repository?
 =====
 
-Step 1: Setup a [GitHub account](https://github.com/signup) and [ensure you are familiar with how to use Git and GitHub](https://lab.github.com/)
-Step 2: Star and watch this page for updates
-Step 3: [Explore some of the many example Jupyter notebooks available in this Repository](https://github.com/D2I-Melbourne/MOP/tree/master/example_notebooks)
-Step 4: [Let us know about if you have ideas for new features or spotted defects we should correct](https://github.com/D2I-Melbourne/MOP/issues)
-Step 5: Create your own Use Case using [City of Melbourne Open Data](https://data.melbourne.vic.gov.au/) and our [Jupyter Notebook template](https://github.com/D2I-Melbourne/MOP/blob/master/example_notebooks/usecases/usecase-TEMPLATE.ipynb).
+* Step 1: Setup a [GitHub account](https://github.com/signup) and [ensure you are familiar with how to use Git and GitHub](https://lab.github.com/)
+* Step 2: Star and watch this page for updates
+* Step 3: [Explore some of the many example Jupyter notebooks available in this Repository](https://github.com/D2I-Melbourne/MOP/tree/master/example_notebooks)
+* Step 4: [Let us know about if you have ideas for new features or spotted defects we should correct](https://github.com/D2I-Melbourne/MOP/issues)
+* Step 5: Create your own Use Case using [City of Melbourne Open Data](https://data.melbourne.vic.gov.au/) and our [Jupyter Notebook template](https://github.com/D2I-Melbourne/MOP/blob/master/example_notebooks/usecases/usecase-TEMPLATE.ipynb).
 
 
 ---
