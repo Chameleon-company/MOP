@@ -9,3 +9,5 @@ This folder contains example Jupyter notebooks illustrating different techniques
 - [Tutorial | Accessing Melbourne Open Data and building a simple data transformation(ETL)](001-UsingSodapyandBuildingETL.ipynb)
 - [Techniques | Analysing Open Data Metadata using NLP Techniques (WIP)](002-metadata-analysis_using_nlp.ipynb)
 - [Techniques | Analysing Open Data Metadata using Socrata API(WIP)](metadata/)
+
+** NOTE : Metadata Jupyter Notebooks are currently a Work in Progress **
