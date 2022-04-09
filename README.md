@@ -1,6 +1,6 @@
 <img src="/images/mop-black.png" alt="drawing" width="100"/>
 
-**Melbourne Open Data Playground**
+**Chameleon- City of Melbourne Open Data Playground**
 ==================================
 Last Updated: 13-Dec-2021
 
