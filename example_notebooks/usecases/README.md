@@ -9,6 +9,10 @@ This folder contains Jupyter notebooks for the following use cases deployed on t
 - [New Business Location](usecase-newbusinesslocation.ipynb)
 - [Spot Parking Problem](usecase-spotparkingproblem.ipynb)
 - [Pedestrian Traffic Analysis](usecase-pedestriantrafficanalysis.ipynb)
+- [Ideal Green Wall Location Identification](usecase-GreenWallLocationIDRevA.ipynb)
+- [Bicycle Network Road Safety](usecase-bicyclenetworkroadsafety-part1.ipynb)
+- [Event Distruption](usecase-EventDisruption.ipynb)
+
 
 New Use Cases to be added to the Melbourne Open Data Playground can use the following Jupyter Notebook template:
 - [Melbourne Open Data Playground Use Case Template (Jupyter Notebook)](usecase-TEMPLATE.ipynb)
