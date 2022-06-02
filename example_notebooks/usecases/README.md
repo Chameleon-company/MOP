@@ -3,7 +3,7 @@
 # Melbourne Open Data Playground
 ## Use Cases (Jupyter Notebooks)
 
-Last Updated: 9-Dec-2021
+Last Updated: 31-May-2022
 
 This folder contains Jupyter notebooks for the following use cases deployed on the Melbourne Open Data Playground:
 - [New Business Location](usecase-newbusinesslocation.ipynb)
